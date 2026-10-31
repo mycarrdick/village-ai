@@ -1,0 +1,1698 @@
+[
+ {
+  "id": "7095541872498786182",
+  "name": "Trường Nhân Shopee Loyalty",
+  "merchant": "truongnhan_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/samngoclinh.truongnhan"
+ },
+ {
+  "id": "7095539352193422956",
+  "name": "Trường Nhân Shopee PUB",
+  "merchant": "truongnhan_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/samngoclinh.truongnhan"
+ },
+ {
+  "id": "7091882757562927591",
+  "name": "TNEX VAY",
+  "merchant": "tnex_vay",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://xomi.xfuture.vn/form/37m668267x91m777x62o2r69"
+ },
+ {
+  "id": "7075230546192426380",
+  "name": "NCB Android Thẻ tín dụng",
+  "merchant": "ncb_credit_android",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.appsflyer.com/com.ncb.bank?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "7075228028295268363",
+  "name": "NCB IOS Thẻ tín dụng",
+  "merchant": "ncb_credit_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.appsflyer.com/id1465217154?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "7073874095910363548",
+  "name": "[ShopeePay] Shopee Pay CPR Shoppe",
+  "merchant": "shopeepay_cpr",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://motaikhoanspp.caiapp.online"
+ },
+ {
+  "id": "7073760852661361213",
+  "name": "VSA - Cost per Test Drive",
+  "merchant": "vsa_cptd",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vietnamstar.mercedes-benz.com.vn/passengercars/offers/Testdrive.html"
+ },
+ {
+  "id": "7073753299816535718",
+  "name": "VSA - Cost Per Qualified Lead",
+  "merchant": "vsa_cpql",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vietnamstar.mercedes-benz.com.vn/passengercars/offers/dac-quyen.html"
+ },
+ {
+  "id": "7071002672488285412",
+  "name": "NCB IOS Tài khoản thanh toán",
+  "merchant": "ncb_account_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.appsflyer.com/id1465217154?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "7071002672384086693",
+  "name": "[Test] NCB Android Tài khoản thanh toán",
+  "merchant": "ncb_account_android",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.appsflyer.com/com.ncb.bank?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "7065217053323038272",
+  "name": "BẢO TÍN MẠNH HẢI - TRANG SỨC",
+  "merchant": "btmh_trangsuc",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://baotinmanhhai.vn/trang-suc?bo-suu-tap=bst-trang-suc-online"
+ },
+ {
+  "id": "7049969070341711942",
+  "name": "SPX Tuyển dụng",
+  "merchant": "spx_tuyendung",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://spx.vn/lp/wfaxaccesstrade-thongtinungtuyen/?"
+ },
+ {
+  "id": "7049833177144406302",
+  "name": "Homefarm - Affiliate",
+  "merchant": "homefarm",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://zalo.me/s/2318306526162317296"
+ },
+ {
+  "id": "7049254362691761714",
+  "name": "AI Tử Vi",
+  "merchant": "aituvi",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://aituvi.com/"
+ },
+ {
+  "id": "7048579915696501989",
+  "name": "CellphoneS - Preorder iPhone 18 Series [luồng dành cho Creator]",
+  "merchant": "cellphonesambassador_preorder",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://cellphones.com.vn/mobile/apple/iphone-18.html"
+ },
+ {
+  "id": "7048569846378525145",
+  "name": "Cellphones_preordercamp [luồng cho Publisher)",
+  "merchant": "cellphones_preordercamp",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://cellphones.com.vn/mobile/apple/iphone-duo.html"
+ },
+ {
+  "id": "7041410167338139054",
+  "name": "Bảo hiểm MB Life - CPS Website",
+  "merchant": "mb_life",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://diemtuavienphi.mblife.vn/"
+ },
+ {
+  "id": "7034766390808593800",
+  "name": "SHB TAPTAP",
+  "merchant": "shb_taptap",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://event.taptap.com.vn/shb/mc4"
+ },
+ {
+  "id": "7034650626270185108",
+  "name": "GSM PHILIPPINES - TUYỂN TÀI XẾ",
+  "merchant": "gsm_ph",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://driver.greengsm.ph/"
+ },
+ {
+  "id": "7030264224088828331",
+  "name": "CellphoneS Ambassador",
+  "merchant": "cellphones_ambassador",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://cellphones.com.vn/"
+ },
+ {
+  "id": "7029539453233564544",
+  "name": "VINAMILK WEB",
+  "merchant": "vinamilkcps_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vinamilk.com.vn/"
+ },
+ {
+  "id": "7028266064573242870",
+  "name": "Lazada Philippines",
+  "merchant": "lazada_ph",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.com.ph/"
+ },
+ {
+  "id": "7028102478473631427",
+  "name": "ALDO WEB",
+  "merchant": "aldo_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://aldoshoes.vn/"
+ },
+ {
+  "id": "7023899790333407988",
+  "name": "VNSHOP Website",
+  "merchant": "vnshop_prod",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vnshop.vn/"
+ },
+ {
+  "id": "7023862042857042600",
+  "name": "Hoàng Phúc International",
+  "merchant": "hoangphuc2026",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://hoangphuconline.vn/"
+ },
+ {
+  "id": "7023763895936788941",
+  "name": "LENOVO",
+  "merchant": "admitad_lenovo",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lenovo.com/"
+ },
+ {
+  "id": "7012995443247122597",
+  "name": "KK DAY",
+  "merchant": "kkday_admitad",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.kkday.com/en/"
+ },
+ {
+  "id": "7009298578693971950",
+  "name": "Skinlosophy Shopee Loyalty",
+  "merchant": "skinlosophy_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/skinlosophy.official"
+ },
+ {
+  "id": "7005113503921801847",
+  "name": "Vinaphone Sim Cước trả sau",
+  "merchant": "vnpt_sim",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://congdichvu.vnptmoney.vn/partner/vnpt/services/mua-sim?param=UukZM5y0AqzmofT7K6LNPW0PhGFIYMUlF5StbzjQrbdaCbFqxJs%2BzZiBej9rnkf1qRGyoCfSTa78tpRvsaLH0Q%3D%3D"
+ },
+ {
+  "id": "7004210051153400700",
+  "name": "Malaysia Airlines",
+  "merchant": "malayairline_tyroo",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.malaysiaairlines.com/vn/vi/home.html"
+ },
+ {
+  "id": "6998582973587010773",
+  "name": "VNPT Vé máy bay",
+  "merchant": "vnpt_vemaybay",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vemaybay.vnptmoney.vn/v2/?SPFid=AT"
+ },
+ {
+  "id": "6998509991320954476",
+  "name": "Skinlosophy Shopee PUB",
+  "merchant": "skinlosophy_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/skinlosophy.official"
+ },
+ {
+  "id": "6997817930567730686",
+  "name": "VIET CREDIT",
+  "merchant": "vcredit2026",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tinvay.vietcredit.com.vn/"
+ },
+ {
+  "id": "6990399044122386089",
+  "name": "MB THỦ ĐÔ",
+  "merchant": "mb_thudo",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://td.caiapp.online"
+ },
+ {
+  "id": "6989080358306994310",
+  "name": "VN Express Tour - CPS Website",
+  "merchant": "vne_tour",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vnexpresstour.com/"
+ },
+ {
+  "id": "6988363134163653514",
+  "name": "ALDO",
+  "merchant": "aldo_miniapp",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://zalo.me/s/4309887773609179384/games/affiliate"
+ },
+ {
+  "id": "6985534491068802784",
+  "name": "Wilson",
+  "merchant": "wilson",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.wilsonsports.com.vn/"
+ },
+ {
+  "id": "6985534490933733653",
+  "name": "Salomon",
+  "merchant": "salomon",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vn.salomon.com/"
+ },
+ {
+  "id": "6985531971150284313",
+  "name": "ANTA KIDS WEBSITE",
+  "merchant": "anta_kids",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://antakids.vn/"
+ },
+ {
+  "id": "6985504292608237860",
+  "name": "HINICE SHOPEE PUB",
+  "merchant": "hinice_pub_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/shampoohinice"
+ },
+ {
+  "id": "6985318064449073386",
+  "name": "TIKI CREATOR",
+  "merchant": "tiki_creator",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tiki.vn"
+ },
+ {
+  "id": "6984807202822137354",
+  "name": "Pharmacity Website",
+  "merchant": "campaign_test",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://km.pharmacity.vn/3xCj/cuuyzqmj"
+ },
+ {
+  "id": "6982574988122652233",
+  "name": "SHOPEE MCN SOCIAL",
+  "merchant": "shopee_addlostvn08",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/"
+ },
+ {
+  "id": "6980244633143845927",
+  "name": "NEXHUB SHOPEE LOYALTY",
+  "merchant": "nexhub_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/nexhub.vn"
+ },
+ {
+  "id": "6979658268650552691",
+  "name": "ANTA Affiliate",
+  "merchant": "anta",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://anta.com.vn/"
+ },
+ {
+  "id": "6979650726241856737",
+  "name": "Hãng xe Hải Vân - CPS Website",
+  "merchant": "haivan_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://haivan.com/xe-khach/vung-tau/tan-son-nhat"
+ },
+ {
+  "id": "6978938525989840499",
+  "name": "NEXHUB SHOPEE CPS",
+  "merchant": "nexhub_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/nexhub.vn"
+ },
+ {
+  "id": "6973127739678361480",
+  "name": "HINICE SHOPEE LOYALTY",
+  "merchant": "hinice_pub_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/shampoohinice"
+ },
+ {
+  "id": "6963715724066451812",
+  "name": "NEXHUB Website CPS",
+  "merchant": "nexthub",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://nexhubshop.vn/"
+ },
+ {
+  "id": "6957824399262393441",
+  "name": "KINGFOODMART",
+  "merchant": "kingfoodmart",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://kingfoodmart.com/"
+ },
+ {
+  "id": "6954336422318207062",
+  "name": "ALIBABA",
+  "merchant": "admitad_alibaba",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.alibaba.com/"
+ },
+ {
+  "id": "6954291118383707924",
+  "name": "ARISTINO CREATOR",
+  "merchant": "aristino_creator",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://istools.accesstrade.vn/m/merchant-campaign-regist"
+ },
+ {
+  "id": "6949942463850829113",
+  "name": "iShinhan Vay Android",
+  "merchant": "ishinhan_android",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://app.appsflyer.com/vn.com.shinhanfinance.ishinhan?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "6949939948611548600",
+  "name": "iShinhan Vay IOS",
+  "merchant": "ishinhan_ios",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://app.appsflyer.com/id6738118767?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
+ },
+ {
+  "id": "6944020948136238004",
+  "name": "Aristino voucher",
+  "merchant": "aristino_zaloapp",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://zalo.me/s/3992782672212867607/games/affiliate"
+ },
+ {
+  "id": "6939168971888171572",
+  "name": "Thẩm Mỹ Viện Ngọc Dung",
+  "merchant": "ngocdung_tmv",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://uudai.thammyvienngocdung.com/xn--soc-accesstrade-t3-2026-0-pdd?utm_medium=Accesstrade&utm_campaign=10&utm_term=thang3&utm_content=Accesstrade_0%C4%91"
+ },
+ {
+  "id": "6933204679968195072",
+  "name": "Shopee Food Tài xế",
+  "merchant": "shopeefood_taixe",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://hikc.caiapp.online/"
+ },
+ {
+  "id": "6923223911488978831",
+  "name": "Kids Plaza 2026",
+  "merchant": "kidsplaza_2026",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.kidsplaza.vn/"
+ },
+ {
+  "id": "6923208811031507234",
+  "name": "KIS",
+  "merchant": "kis",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://trading.kisvn.vn/ekyc?inputCusChannelID=eKYC&clientIntroducer=MKT.AT"
+ },
+ {
+  "id": "6907309041542059055",
+  "name": "Việt An Travel",
+  "merchant": "vietan_cps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://at.787.vn/vi/"
+ },
+ {
+  "id": "6893487974907782679",
+  "name": "BlueStone Shopee _ Loyalty",
+  "merchant": "bluestone_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/bluestone_vietnam"
+ },
+ {
+  "id": "6893452745629965860",
+  "name": "BlueStone Shopee Publisher",
+  "merchant": "bluestone_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/bluestone_vietnam"
+ },
+ {
+  "id": "6891363974114605114",
+  "name": "GSM - TUYỂN TÀI XẾ Car",
+  "merchant": "xanhsm_car",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tuyentaixe.xanhsm.com/tuyendungtaxi"
+ },
+ {
+  "id": "6882092886199230592",
+  "name": "Kotex Shopee Cashback",
+  "merchant": "kotex_shopee_cashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/kotexvn"
+ },
+ {
+  "id": "6882092886029161465",
+  "name": "Kotex Shopee PUB",
+  "merchant": "kotex_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/kotexvn"
+ },
+ {
+  "id": "6873138885445764645",
+  "name": "AppMax_Thẻ+Vay",
+  "merchant": "vibmax_refcode",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://maxvib.onelink.me/DALe/register?ref=PAAT"
+ },
+ {
+  "id": "6872416627387563539",
+  "name": "GetYourGuide Rakuten",
+  "merchant": "getyourguide_rakuten",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.getyourguide.com/"
+ },
+ {
+  "id": "6867977378089718296",
+  "name": "Lazada Malaysia",
+  "merchant": "lazada_malay",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.com.my/"
+ },
+ {
+  "id": "6867974860107016756",
+  "name": "Lazada Singapore",
+  "merchant": "lazada_sing",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.sg/"
+ },
+ {
+  "id": "6866678819944280655",
+  "name": "Sun PhuQuoc Airways",
+  "merchant": "sun_phuquoc",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.sunphuquocairways.com/vn/vi"
+ },
+ {
+  "id": "6853569940830038258",
+  "name": "NUVIGROW",
+  "merchant": "nuvigrow",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.nuvigrowheight.com.vn/dat"
+ },
+ {
+  "id": "6827321992129624253",
+  "name": "Chứng khoán Maybank_LDP",
+  "merchant": "maybank_ldp",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://motaikhoanchungkhoan.caiapp.online"
+ },
+ {
+  "id": "6825311236550935187",
+  "name": "Ding Tea",
+  "merchant": "dingtea",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "http://promo.dingtea.vn/"
+ },
+ {
+  "id": "6822308958202075636",
+  "name": "VPBank - Vay Tín chấp",
+  "merchant": "vpbank3t_vaytinchap",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://vayonline.vpbank.com.vn/"
+ },
+ {
+  "id": "6817930100651517825",
+  "name": "Agoda APAC",
+  "merchant": "agoda_cj",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.agoda.com/vi-vn/"
+ },
+ {
+  "id": "6815768354191563091",
+  "name": "Traphaco Shopee Loyalty",
+  "merchant": "traphaco_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/traphaco_shop"
+ },
+ {
+  "id": "6815765839806815244",
+  "name": "Traphaco Shopee PUB",
+  "merchant": "traphaco_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/traphaco_shop"
+ },
+ {
+  "id": "6802133513714094693",
+  "name": "LEAFY SHOPEE CASHBACK",
+  "merchant": "leafy_shopeecashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/leafy.dnn"
+ },
+ {
+  "id": "6802131001370895715",
+  "name": "LEAFY SHOPEE PUB",
+  "merchant": "leafy_shopeepub",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/leafy.dnn"
+ },
+ {
+  "id": "6800497735607325103",
+  "name": "SHOPDUNK WEB",
+  "merchant": "shopdunk_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopdunk.com/"
+ },
+ {
+  "id": "6784240612814193572",
+  "name": "GALAXY APP",
+  "merchant": "galaxy_app",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://abr.ge/@galaxyplay/accesstradevn?ad_group={ad_group}&ad_group_id={ad_group_id}&campaign={campaign}&campaign_id={campaign_id}&click_id={clickid}&gaid_raw={gaid}&ifa_raw={idfa}&ip={ip}&routing_short_id=vp77ag&sub_id={sub_id}&sub_id_1={sub_1}&sub_id_2={sub_2}&sub_id_3={sub_3}&term={term}&tracking_template_id=d283eab1183ff34d2279204882e3d029&ad_type=click"
+ },
+ {
+  "id": "6775153232642032998",
+  "name": "Shondo Website",
+  "merchant": "shondo_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shondoshoes.com/"
+ },
+ {
+  "id": "6767399642708413705",
+  "name": "TPBANK CREATOR",
+  "merchant": "tpbank_creator",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tpbcreators.koc.com.vn/tpbank"
+ },
+ {
+  "id": "6757021256279841672",
+  "name": "GSM - TUYỂN TÀI XẾ XE MÁY",
+  "merchant": "xanhsmbike",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://tuyentaixe.greensm.com/dang-ky-tai-xe-green-sm-bike"
+ },
+ {
+  "id": "6755566670757287699",
+  "name": "Sachi Shopee Loyalty",
+  "merchant": "sachi_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/sachi_official"
+ },
+ {
+  "id": "6755564156005144846",
+  "name": "Sachi Shopee PUB",
+  "merchant": "sachi_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/sachi_official"
+ },
+ {
+  "id": "6755564155953677085",
+  "name": "Sachi Shopee Cashback",
+  "merchant": "sachi_shopee_cashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/sachi_official"
+ },
+ {
+  "id": "6751484772013794042",
+  "name": "Cathay United Bank_IOS",
+  "merchant": "cub_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://apps.apple.com/vn/app/cub-vietnam/id6450951295?mt=8"
+ },
+ {
+  "id": "6750717219888698613",
+  "name": "Cathay United Bank_Android",
+  "merchant": "cub_android",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://play.google.com/store/apps/details?id=com.cathayholdings.vdrf&referrer=af_tranid%3DfE_4JA-T2yYPT6FswFnYcQ%26af_siteid%3D%7Bpsn%7D%26af_c_id%3D%7Bcampaign%7D%26pid%3Daccesstradevn_int"
+ },
+ {
+  "id": "6745465109871893227",
+  "name": "HDBank Creator",
+  "merchant": "hdbank_creator",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://creator.hdbank.com.vn/hdbank"
+ },
+ {
+  "id": "6725324907604976974",
+  "name": "Suntory Shopee Cashback",
+  "merchant": "suntory_shopee_cashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/suntorypepsico.vietnam"
+ },
+ {
+  "id": "6725322386101536030",
+  "name": "Suntory Shopee Loyalty",
+  "merchant": "suntory_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/suntorypepsico.vietnam"
+ },
+ {
+  "id": "6725304772903716648",
+  "name": "Suntory Shopee PUB",
+  "merchant": "suntory_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/suntorypepsico.vietnam"
+ },
+ {
+  "id": "6709203674879803188",
+  "name": "Highlands Redeem Zalo",
+  "merchant": "highland_antsomi_zalo",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://zalo.me/s/327411629127312067/games/affiliate"
+ },
+ {
+  "id": "6704167993260871348",
+  "name": "LAZADA REFERRAL: GIỚI THIỆU CHẤT - THƯỞNG CỰC PHẤT",
+  "merchant": "lazada_mgm",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://pub2.accesstrade.vn/campaign/5369219770778085421"
+ },
+ {
+  "id": "6703546395091507774",
+  "name": "ZALO ADS LANDINGPAGE",
+  "merchant": "zaloads_lpd",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://www.zlads.info"
+ },
+ {
+  "id": "6699917486599106569",
+  "name": "The Coffee House",
+  "merchant": "thecoffeehouse_cpv",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://promothecoffeeehouse.com.vn/"
+ },
+ {
+  "id": "6685985692750012237",
+  "name": "Điện Thoại Vui",
+  "merchant": "dienthoaivui",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://dienthoaivui.com.vn/may-cu"
+ },
+ {
+  "id": "6678269845727124158",
+  "name": "Trivago Rakuten",
+  "merchant": "trivago_rakuten",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.trivago.sg/"
+ },
+ {
+  "id": "6678146530804371195",
+  "name": "MBS - CHỨNG KHOÁN",
+  "merchant": "mbs_finance",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://chungkhoanmb.go.link?adj_t=1m92rvmu"
+ },
+ {
+  "id": "6664405991260008150",
+  "name": "VIB - SIÊU LỢI SUẤT",
+  "merchant": "vib_sieuloisuat",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://sieuloisuat.caiapp.online"
+ },
+ {
+  "id": "6654251588167732819",
+  "name": "Traveloka Partnerize",
+  "merchant": "traveloka_partnerize",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.traveloka.com/vi-vn"
+ },
+ {
+  "id": "6648523843406889655",
+  "name": "TIKTOK SHOP CPS",
+  "merchant": "tiktok_cps",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://www.tiktok.com/"
+ },
+ {
+  "id": "6647570055661092187",
+  "name": "Bảo hiểm Hùng Vương",
+  "merchant": "baohiemhungvuong",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://online.bhv.com.vn/sharedlink?ref=f402d406-47cf-4228-8c29-9b40355a310c"
+ },
+ {
+  "id": "6622353900146644734",
+  "name": "SAMSUNG BANK",
+  "merchant": "samsungbank",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.samsung.com/vn/"
+ },
+ {
+  "id": "6614454346312590528",
+  "name": "VPBank Thẻ Direct",
+  "merchant": "vpb_direct",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://cards.vpbank.com.vn/?utm_campaign=JarvisCustCC.Partner&utm_source=Accesstrade&utm_medium=Accesstrade&PartnerId=Accesstrade"
+ },
+ {
+  "id": "6614278186208373230",
+  "name": "Bluestone CPS - Website",
+  "merchant": "bluestone_2024",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.bluestone.com.vn/"
+ },
+ {
+  "id": "6604876235069453728",
+  "name": "KOC AMBASSADOR Referral - Giới thiệu bạn mới tham gia KOC Ambassador",
+  "merchant": "ambassador_ref",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://ambassador.koc.com.vn/"
+ },
+ {
+  "id": "6604823384414661813",
+  "name": "VEXERE APP",
+  "merchant": "vexere_app",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vexere.page.link"
+ },
+ {
+  "id": "6602070245266209267",
+  "name": "Ecosystem - Commission notfound",
+  "merchant": "eco_comm",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tiki.vn/"
+ },
+ {
+  "id": "6598323057887523589",
+  "name": "Zumwhere",
+  "merchant": "zumwhere",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://eats.deliany.co/ac/zumwhere"
+ },
+ {
+  "id": "6587647715581760479",
+  "name": "AEON ESHOP",
+  "merchant": "aeonmall_eshop",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://get.aeoneshop.com/a/key_live_lrlebZSYRPSLXyLVWDZbbkmnztf442o2"
+ },
+ {
+  "id": "6586832341367096506",
+  "name": "Lotte Finance",
+  "merchant": "lotte_finance",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vay.lottefinance.vn/vaynhanh5/"
+ },
+ {
+  "id": "6583231108669388391",
+  "name": "K COFFEE CPS",
+  "merchant": "kcoffee_cps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://kcoffee.vn/?utm_campaign=kcoffee_cps"
+ },
+ {
+  "id": "6578968017489585981",
+  "name": "K COFFEE Shopee PUB",
+  "merchant": "kcoffee_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/kphucsinh246"
+ },
+ {
+  "id": "6568081282047528536",
+  "name": "Aristino Web",
+  "merchant": "aristino_haravan",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://aristino.com/"
+ },
+ {
+  "id": "6558639065354248197",
+  "name": "KG Website",
+  "merchant": "kgvietnam_haravan",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://kgvietnam.com/"
+ },
+ {
+  "id": "6553570671234918313",
+  "name": "Feelex Lazada CPS",
+  "merchant": "feelex_lazadacps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.vn/shop/ozovn-store"
+ },
+ {
+  "id": "6549038308969849597",
+  "name": "Magic VN Shopee PUB",
+  "merchant": "magicvn_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/magickorea_offcialstore"
+ },
+ {
+  "id": "6547747296370981793",
+  "name": "Nature Foods Shopee PUB",
+  "merchant": "naturefoods_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/naturefoods_vn"
+ },
+ {
+  "id": "6547057752207582032",
+  "name": "Nature Foods Web",
+  "merchant": "naturefoods_haravan",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://nfcshop.com.vn/"
+ },
+ {
+  "id": "6544141033462679814",
+  "name": "BỀN COMPUTER",
+  "merchant": "ben",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://ben.com.vn/tin-tuc/flashsale/"
+ },
+ {
+  "id": "6533037871570355726",
+  "name": "GIFTHUB - Voucher mua sắm",
+  "merchant": "mpoint",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://gifthub.com.vn/"
+ },
+ {
+  "id": "6528872927410958011",
+  "name": "FECREDIT CPS",
+  "merchant": "fecredit_vay_cps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vay.fecredit.com.vn/"
+ },
+ {
+  "id": "6527496359615523956",
+  "name": "Vé máy bay",
+  "merchant": "traveldeal_deeptech",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vemaybay.vn/"
+ },
+ {
+  "id": "6523640956229019893",
+  "name": "OZOVN Shopee KOL",
+  "merchant": "ozovn_shopee_kolnew",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/feelex_official"
+ },
+ {
+  "id": "6523638435404417865",
+  "name": "OZOVN Shopee PUB",
+  "merchant": "ozovn_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/feelex_official"
+ },
+ {
+  "id": "6516569363824775654",
+  "name": "THẺ TÍN DỤNG VPBank 3T",
+  "merchant": "vpbank_3t",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://cards.vpbank.com.vn/"
+ },
+ {
+  "id": "6515829485881910529",
+  "name": "Du lịch Trần Việt",
+  "merchant": "dulichtranviet",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://transviet.com.vn/"
+ },
+ {
+  "id": "6502869082635662898",
+  "name": "VPBank - tài khoản cá nhân ",
+  "merchant": "vpbank_user",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://link.airflex.io"
+ },
+ {
+  "id": "6502861530915108130",
+  "name": "VPBank - kinh doanh nhỏ",
+  "merchant": "vpbank_merchant",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://link.airflex.io"
+ },
+ {
+  "id": "6497672338164436925",
+  "name": "Shopee MCN",
+  "merchant": "shopee_mcn",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/"
+ },
+ {
+  "id": "6497005448927554903",
+  "name": "SAVANI",
+  "merchant": "savani",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://savani.vn/"
+ },
+ {
+  "id": "6476681531370088246",
+  "name": "ELMICH",
+  "merchant": "elmich_sapo",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shop.elmich.vn/"
+ },
+ {
+  "id": "6457698956940498647",
+  "name": "TIKTOK FOR BUSINESS",
+  "merchant": "tiktok_business",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://getstartedtiktok.partnerlinks.io/ca7gcd5sbmmv"
+ },
+ {
+  "id": "6455552313033835511",
+  "name": "Trip.com",
+  "merchant": "trip_rakuten",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vn.trip.com/?locale=vi-vn"
+ },
+ {
+  "id": "6452781554928188517",
+  "name": "CHICKITA VOUCHER",
+  "merchant": "chickita_voucher",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://voucher.chickita.com.vn/"
+ },
+ {
+  "id": "6420146511031719908",
+  "name": "Apple Store Online",
+  "merchant": "apple",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.apple.com/vn/store"
+ },
+ {
+  "id": "6417244891749212821",
+  "name": "MỞ THẺ VPBANK SENID",
+  "merchant": "vpbank_senid",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://mothe.senid.vn/tpc_at"
+ },
+ {
+  "id": "6416371638653695153",
+  "name": "VIETMAP LIVE PRO",
+  "merchant": "d2c_vietmaplivepro",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vietmaplive.cardii.vn/"
+ },
+ {
+  "id": "6415649379335520969",
+  "name": "FPT SOFTWARE EMBEDDED",
+  "merchant": "fpt_software_auto",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://career.fpt-software.com/fpt-automotive/"
+ },
+ {
+  "id": "6404100780622455797",
+  "name": "HOMECREDIT CASH LOAN",
+  "merchant": "homecredit_cashloan",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.homecredit.vn/vay-tien-online-nhanh"
+ },
+ {
+  "id": "6399905644040575865",
+  "name": "FPT SOFTWARE CAMPUS",
+  "merchant": "fptsoftware_campus",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://career.fpt-software.com/hola-campus-recruitment/"
+ },
+ {
+  "id": "6369392081585410965",
+  "name": "Add đơn từ D2C/DiMuaDi - Men Sống Bạch Mai (Bank)",
+  "merchant": "d2c_mensongbachmaipro",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://6tyloikhuan.mensongbachmaipro.vn/bank"
+ },
+ {
+  "id": "6345454361061452947",
+  "name": "FPT Shop",
+  "merchant": "fpt_shop",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://fptshop.com.vn/"
+ },
+ {
+  "id": "6318680441596031865",
+  "name": "VIETNAM AIRLINES",
+  "merchant": "vietnamairlines_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vietnamairlines.com/vn/vi/home"
+ },
+ {
+  "id": "6302808355000289091",
+  "name": "Marvis Shopee PUB",
+  "merchant": "marvis_shopee_pub",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/marvis_vietnam"
+ },
+ {
+  "id": "6302808354831942400",
+  "name": "Marvis Shopee KOL",
+  "merchant": "marvis_shopee_kolnew",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/marvis_vietnam"
+ },
+ {
+  "id": "6298965523515214199",
+  "name": "VIB - THẺ TÍN DỤNG",
+  "merchant": "vib_thetindung",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vib.com.vn/vn/the-tin-dung/dang-ky/buoc-1?card_type=vib-family-link"
+ },
+ {
+  "id": "6283264608507544489",
+  "name": "Samsung Student",
+  "merchant": "samsung_optimise_student",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shop.samsung.com/vn/multistore/vnepp/vn_affiliatea/auth/multistore"
+ },
+ {
+  "id": "6259155740535091857",
+  "name": "CellphoneS",
+  "merchant": "cellphones_cps",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://cellphones.com.vn/danh-sach-khuyen-mai"
+ },
+ {
+  "id": "6258612159538991400",
+  "name": "VinWonders Website",
+  "merchant": "vinwonders",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vinwonders.com/vi/"
+ },
+ {
+  "id": "6254185502532465966",
+  "name": "AVAKIDs",
+  "merchant": "avakid",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.avakids.com/flashsale"
+ },
+ {
+  "id": "6222994945811367082",
+  "name": "GoStream WEB",
+  "merchant": "gostream_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.gostream.co"
+ },
+ {
+  "id": "6185948314413521231",
+  "name": "TPBANK LANDING PAGE",
+  "merchant": "tpbank_magioithieu",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://lp.caiapp.online/dang-ky"
+ },
+ {
+  "id": "6166565597968055231",
+  "name": "Nagakawa Website",
+  "merchant": "nagakawa_website",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shop.nagakawa.com.vn/"
+ },
+ {
+  "id": "6136638414227853852",
+  "name": "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE",
+  "merchant": "oneat_referral_firebase",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://accesstradevn.onelink.me"
+ },
+ {
+  "id": "6131726056007555963",
+  "name": "VIVAVIVU",
+  "merchant": "vivavivu",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vivavivu.com/"
+ },
+ {
+  "id": "6082300892276881966",
+  "name": "Chenglovehair Pub Shopee",
+  "merchant": "chenglovehair_pub_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/chenglovehairs"
+ },
+ {
+  "id": "6060576658500770072",
+  "name": "ILA Education - Tiếng anh cho bé 3 - 16 tuổi",
+  "merchant": "ila_vietnam",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://ila.edu.vn/tieng-anh-cho-be/"
+ },
+ {
+  "id": "6031578642158669564",
+  "name": "Mykingdom - Vương Quốc Đồ Chơi",
+  "merchant": "mykingdom_website",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.mykingdom.com.vn/"
+ },
+ {
+  "id": "6023573823797709038",
+  "name": "Tiki CashBack",
+  "merchant": "tiki_cashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tiki.vn"
+ },
+ {
+  "id": "6009072433920808367",
+  "name": "MediaMart",
+  "merchant": "mediamart",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://mediamart.vn/"
+ },
+ {
+  "id": "5996042828404111774",
+  "name": "Vé Giá rẻ",
+  "merchant": "vegiare_web",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vegiare.com/"
+ },
+ {
+  "id": "5947520531934759089",
+  "name": "MB BANK AND - HOA HỒNG ĐẾN 70K",
+  "merchant": "mbbank_referral",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://play.google.com/store/apps/details?id=com.mbmobile"
+ },
+ {
+  "id": "5944048054969891280",
+  "name": "Merriman Website",
+  "merchant": "merriman_website",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://merriman.com.vn/"
+ },
+ {
+  "id": "5934452518832414765",
+  "name": "SAMSUNG",
+  "merchant": "samsung_optimise",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.samsung.com/vn/"
+ },
+ {
+  "id": "5909157745200696347",
+  "name": "CƠ HỘI VIỆC LÀM FPT SOFTWARE",
+  "merchant": "fpt_software",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://career.fpt-software.com/co-hoi-viec-lam/"
+ },
+ {
+  "id": "5884407006569489397",
+  "name": "CROCS",
+  "merchant": "crocs_shopify",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.crocs.com.vn/"
+ },
+ {
+  "id": "5883902897773910283",
+  "name": "SUPERSPORTS",
+  "merchant": "supersports_shopify",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://supersports.com.vn/"
+ },
+ {
+  "id": "5878082476514457678",
+  "name": "GITIHO",
+  "merchant": "gitiho_cps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://gitiho.com/"
+ },
+ {
+  "id": "5859180327241666442",
+  "name": "TECHCOMBANK - MỞ TÀI KHOẢN (IOS)",
+  "merchant": "techcombank_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://apps.apple.com/us/app/id1548623362"
+ },
+ {
+  "id": "5859180327056871643",
+  "name": "TECHCOMBANK - MỞ TÀI KHOẢN AND ",
+  "merchant": "techcombank_android",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://play.google.com/store/apps/details?id=vn.com.techcombank.bb.app"
+ },
+ {
+  "id": "5833135818659968932",
+  "name": "GỐM SỨ MINH LONG",
+  "merchant": "gomsuminhlong",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://minhlong.com/pages/eshop"
+ },
+ {
+  "id": "5793086865419459158",
+  "name": "NXB KIM ĐỒNG",
+  "merchant": "nxbkimdong",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://nxbkimdong.com.vn/"
+ },
+ {
+  "id": "5755624267702547217",
+  "name": "JOCKEY",
+  "merchant": "jockey",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://jockey.vn/"
+ },
+ {
+  "id": "5755621899732679165",
+  "name": "VERA",
+  "merchant": "vera",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vera.com.vn/"
+ },
+ {
+  "id": "5751981382510607935",
+  "name": "Điện máy xanh",
+  "merchant": "dmx",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.dienmayxanh.com/flashsale"
+ },
+ {
+  "id": "5751976138501713517",
+  "name": "Thế giới di động",
+  "merchant": "tgdd",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.thegioididong.com/flashsale"
+ },
+ {
+  "id": "5572780493629372052",
+  "name": "CHỨNG KHOÁN VPS",
+  "merchant": "vps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://openaccount.vps.com.vn"
+ },
+ {
+  "id": "5548948474186572931",
+  "name": "ELSA",
+  "merchant": "elsa_edu",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vn.elsaspeak.com/affiliates-vnaff_no/?ref=4036/Accesstrade"
+ },
+ {
+  "id": "5524195365936499648",
+  "name": "ACFC",
+  "merchant": "acfc",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.acfc.com.vn"
+ },
+ {
+  "id": "5501890885945664636",
+  "name": "Tima",
+  "merchant": "tima_oto_cps",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vayoto.tima.vn"
+ },
+ {
+  "id": "5493145244551778830",
+  "name": "Adidas Việt Nam Online",
+  "merchant": "adidas_vietnam",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://adidasvn.pxf.io/c/5371526/2850846/33066"
+ },
+ {
+  "id": "5435099929889863775",
+  "name": "FPT Telecom",
+  "merchant": "fpt_telecom",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shop.fpt.vn/"
+ },
+ {
+  "id": "5364019948494167458",
+  "name": "Beauty Box",
+  "merchant": "beautybox",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://beautybox.com.vn/"
+ },
+ {
+  "id": "5362024590309119355",
+  "name": "Be App IOS",
+  "merchant": "beapp_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://app.appsflyer.com/id1440565902"
+ },
+ {
+  "id": "5361994137174714172",
+  "name": "Giới thiệu KOC (dành cho publisher)",
+  "merchant": "referral-pubkol",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.koc.com.vn/koc"
+ },
+ {
+  "id": "5361989057092589966",
+  "name": "Giới thiệu New KOC (dành cho KOC)",
+  "merchant": "referral-kol",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.koc.com.vn/koc"
+ },
+ {
+  "id": "5361976485182557291",
+  "name": "Be App AND",
+  "merchant": "beapp_android",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://play.google.com/store/apps/details?id=xyz.be.customer"
+ },
+ {
+  "id": "5325601808419035241",
+  "name": "MB Bank - LINK GIỚI THIỆU",
+  "merchant": "mbbank_cpa_android",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://mobile.mbbank.com.vn/referral/index.html"
+ },
+ {
+  "id": "5325601808324354433",
+  "name": "MB BANK IOS - HOA HỒNG ĐẾN 70K",
+  "merchant": "mbbank_cpa_ios",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://id1205807363.vn"
+ },
+ {
+  "id": "5320689651876146371",
+  "name": "Biti's",
+  "merchant": "bitis.myharavan.com",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://bitis.com.vn/"
+ },
+ {
+  "id": "5279208594881968576",
+  "name": "VBI - Bảo hiểm xe máy - ôtô",
+  "merchant": "vbi",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://m.evbi.vn/accesstrade/landing-bao-hiem-xe-may"
+ },
+ {
+  "id": "5250371113292977031",
+  "name": "Shopee KOL NEW",
+  "merchant": "shopee_kolnew",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/"
+ },
+ {
+  "id": "5249638763776692551",
+  "name": "Lazada Cashback",
+  "merchant": "lazada_cashback",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.vn/"
+ },
+ {
+  "id": "5229340396064683522",
+  "name": "Hoàng Hà Mobile",
+  "merchant": "hoanghamobile",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://hoanghamobile.com/"
+ },
+ {
+  "id": "5222734619328835827",
+  "name": "Vexere - Đặt vé online trên Web",
+  "merchant": "vexere",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vexere.com/"
+ },
+ {
+  "id": "5204532880919025215",
+  "name": "Con Cưng",
+  "merchant": "concung",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://concung.com/"
+ },
+ {
+  "id": "5199030632523966380",
+  "name": "Lug",
+  "merchant": "lug",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://lug.vn/"
+ },
+ {
+  "id": "5101691938404554204",
+  "name": "Bảo Minh",
+  "merchant": "baominh",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://tructuyen.baominh.vn/"
+ },
+ {
+  "id": "5087153089503673507",
+  "name": "Lazada Việt Nam",
+  "merchant": "lazada_kol",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.lazada.vn/"
+ },
+ {
+  "id": "5006861524131124430",
+  "name": "Vascara",
+  "merchant": "vascara",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.vascara.com/"
+ },
+ {
+  "id": "4679977611385258995",
+  "name": "THEFACESHOP - MỸ PHẨM THIÊN NHIÊN",
+  "merchant": "thefaceshopvn.myharavan.com",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://thefaceshop.com.vn/"
+ },
+ {
+  "id": "4847393244670897258",
+  "name": "DHC",
+  "merchant": "dhcshop.myharavan.com",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "http://bestme.vn/"
+ },
+ {
+  "id": "4751584435713464237",
+  "name": "Shopee Việt Nam Smartlink cho tất cả thiết bị",
+  "merchant": "shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/"
+ },
+ {
+  "id": "4756680517290724173",
+  "name": "BestPrice - Đại lý đặt phòng khách sạn, vé máy bay, tour du lịch trực tuyến giá tốt nhất",
+  "merchant": "bestprice",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "http://bestprice.vn/"
+ },
+ {
+  "id": "4704521809526929067",
+  "name": "Klook - SIM, Vé Tham Quan, Show, Tour, Vận Chuyển Trên 30 Quốc Gia",
+  "merchant": "klookvn",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.klook.com/vi/"
+ },
+ {
+  "id": "4348614231480407268",
+  "name": "TIKI (CPS)",
+  "merchant": "tikivn",
+  "approval": "successful",
+  "status": 1,
+  "url": "https://tiki.vn"
+ },
+ {
+  "id": "4714643531361134725",
+  "name": "Fado.vn - Mua Sắm Xuyên Biên Giới",
+  "merchant": "fadovn",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://fado.vn/app"
+ },
+ {
+  "id": "4348614230663030600",
+  "name": "GOTADI – Vé máy bay giá rẻ, uy tín",
+  "merchant": "gotadi",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.gotadi.com/du-lich/"
+ },
+ {
+  "id": "4420497792266085742",
+  "name": "ATADI _ Đặt vé máy bay trực tuyến giá rẻ",
+  "merchant": "atadi",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.atadi.vn/"
+ }
+]
