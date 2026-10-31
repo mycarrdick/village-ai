@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:20:29.244Z",
+  "updated": "2026-10-31T03:21:27.182Z",
   "source": "accesstrade",
   "stats": {
     "total": 212,
@@ -10,7 +10,6 @@
     "status": {
       "1": 212
     },
-    "sample": "{\"data\":[{\"approval\":\"unregistered\",\"category\":\"18\",\"cookie_duration\":2592000,\"cookie_policy\":\"\",\"description\":{\"action_point\":\"<p style=\\\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-sla",
     "approvedNames": [
       "[ShopeePay] Shopee Pay CPR Shoppe (status 1)",
       "MB THỦ ĐÔ (status 1)",
@@ -170,6 +169,60 @@
       "about": "VPBank NEO là sản phẩm ngân hàng điện tử của VPBank giúp khách hàng giao dịch đơn giản, tiện lợi chỉ với một cú click “Đăng nhập Internet Banking” và một mật khẩu bảo mật an toàn Từ ngày 7.11.2024, kh",
       "rules": "- Không cấm SEM brandname - Quy định cho Publisher: TẠI ĐÂY.",
       "link": "https://shorten.asia/4tAerpmP"
+    },
+    {
+      "name": "CellphoneS",
+      "merchant": "cellphones_cps",
+      "category": "59 / 21",
+      "commission": "T ổng hợp CTKM hằng ngày tại đây Từ 16/04/2025: Tất cả các đơn hàng Affiliate có nhập code SVIP của CellPhoneS sẽ không được tính hoa hồng! Hoa hồng (Chưa VAT): % x giá trị sản phẩm. Lưu ý: Không tính",
+      "about": "Giới thiệu về CellphoneS CellphoneS Sau hơn 10 năm vận hành và phát triển không ngừng, hệ thống bán lẻ CellphoneS liên tục mở rộng với chuỗi hơn 100 cửa hàng trên toàn quốc và tự hào là 1 trong 5 hệ t",
+      "rules": "- Publisher không được chạy Paid Traffic và SEM tại chiến dịch CellphoneS (không chạy quảng cáo GooGle, Cốc Cốc) - Các CTV, nhân viên của CellphoneS không được đăng ký tham gia làm publisher chạy chiế",
+      "link": "https://shorten.asia/WExFkQWK"
+    },
+    {
+      "name": "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE",
+      "merchant": "oneat_referral_firebase",
+      "category": "29 / 29",
+      "commission": "Thu nhập của bạn đến từ 3 TẦNG CỘNG LẠI: Tầng A: Nhận từ 5.000đ - 8.000đ trên mỗi lượt giới thiệu đăng ký thành công. Tầng B: Nhận thêm 25.000đ trên mỗi Publisher mới có đơn được duyệt đầu tiên. Tầng ",
+      "about": "Chiến dịch “ ACCESSTRADE Referral ” là Chiến dịch Publisher giới thiệu bạn mới đăng ký ACCESSTRADE và trải nghiệm công việc Affiliate Marketing. Đây là chiến dịch đặc biệt nơi Publisher giới thiệu bạn",
+      "rules": "- Quy định cho Publisher: tại đây A/ Các trường hợp được khuyến khích chạy: Tạo nội dung hữu ích hướng dẫn người đọc làm Affiliate, Kiếm tiền online trên website, Blog… xây dựng chiến lược SEO lâu dài",
+      "link": "https://shorten.asia/5hPH4xZU"
+    },
+    {
+      "name": "MediaMart",
+      "merchant": "mediamart",
+      "category": "59 / 21",
+      "commission": "Bảng hoa hồng (chưa bao gồm VAT): Ngành hàng Hoa hồng cơ bản Ti vi COEX 2,80% Tủ lạnh, máy giặt, máy sấy COEX Gia dụng COEX và ROLER Tivi, Audio 1,05% Điện lạnh 1,40% Gia dụng 2,10% Phụ kiện (trừ Appl",
+      "about": "Để tránh tỉ lệ huỷ đơn, PUB nên tạo link shorten từ link : Các Publisher đẩy vào các link sau để đảm bảo về hàng tồn kho và tránh huỷ đơn vì hết hàng: https://mediamart.vn/giai-phong-hang-ton-laptop h",
+      "rules": "- Không cấm SEM Brandname - Quy định cho Publisher: Tại đây .",
+      "link": "https://shorten.asia/h5MrREd3"
+    },
+    {
+      "name": "MB Bank - LINK GIỚI THIỆU",
+      "merchant": "mbbank_cpa_android",
+      "category": "35 / 36",
+      "commission": "HOA HỒNG CHIẾN DỊCH: 70K/CPR Nếu bạn có thể chạy số lượng lớn vui lòng liên hệ AM để có mức hoa hồng hấp dẫn hơn nhé! Lưu ý: Chiến dịch này yêu cầu user đăng nhập app tối thiểu 3 lần để tránh bị nghi ",
+      "about": "Ngân hàng Quân đội - viết tắt là MB, là ngân hàng thương mại cổ phần của Việt Nam, một doanh nghiệp trực thuộc Bộ Quốc phòng. Ngày 14/02/2020 MB ra mắt phiên bản App mới đi kèm vô vàn khuyến mãi dành ",
+      "rules": "- Chiến dịch không cấm SEM Brandname",
+      "link": "https://shorten.asia/WC72a1FJ"
+    },
+    {
+      "name": "Hoàng Hà Mobile",
+      "merchant": "hoanghamobile",
+      "category": "59 / 21",
+      "commission": "- 0.63% / giá trị đơn hàng (là giá trị đơn hàng thực tế được khách hàng thanh toán khi nhận hàng - không phải là giá trị đơn hàng trên Web) ( chưa bao gồm VAT ) Hoa hồng sản phẩm mới: STT Sản phẩm mới",
+      "about": "Được thành lập từ năm 1996, chúng tôi là một trong những nhà phân phối ĐTDĐ đầu tiên tại Hà Nội và kể từ năm 2000, chính thức trở thành nhà phân phối ĐTDĐ SamSung – Masterdealer duy nhất tại 194 đường",
+      "rules": "Cấm SEM brand name: Hoàng Hà, HH, H.Hà, Hoang Ha, hoanghamobile, hoangha, hoanghamobile.com",
+      "link": "https://shorten.asia/SbNBEumq"
+    },
+    {
+      "name": "TIKI (CPS)",
+      "merchant": "tikivn",
+      "category": "59 / 59",
+      "commission": "Hoa hồng gốc áp dụng hàng tháng: tại đây Hiển thị sponsor = 0 tức là không có hoa hồng sponsor. Hoa hồng tháng 10/2026: Lịch Upsize Hoa Hồng Cơ Bản October.2026 CƠ HỘI TĂNG DOANH THU VỚI NHIỀU C",
+      "about": "TIKI - Siêu thị mua sắm trực tuyến hàng đầu Việt Nam sở hữu hơn 30,000 nhà bán hàng, phục vụ hơn 30 triệu khách hàng với hơn 20 ngành hàng đa dạng, từ điện tử, thời trang đến mỹ phẩm và đồ gia dụng, n",
+      "rules": "Nghiêm cấm các publisher sử dụng các hình thức sau để tạo traffic và đơn hàng: 1. Mạo danh hình ảnh và thương hiệu của Bên B để quảng cáo: Đơn hàng phát sinh từ các đơn vị tiếp thị tạo ấn t",
+      "link": "https://shorten.asia/nrgUdmmk"
     }
   ]
 }
