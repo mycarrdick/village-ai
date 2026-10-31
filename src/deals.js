@@ -26,12 +26,15 @@ async function main() {
 
   const deals = [];
   const stats = {};
-  let sample = "";
   for (const m of merchants) {
     try {
-      const r = await get(`/offers_informations?merchant=${encodeURIComponent(m)}&status=1&limit=50`);
-      const list = r.data || [];
-      if (!sample && list.length) sample = JSON.stringify(list[0]).slice(0, 600);
+      const list = [];
+      for (let page = 1; page <= 6; page++) {
+        const r = await get(`/offers_informations?merchant=${encodeURIComponent(m)}&status=1&limit=50&page=${page}`);
+        const d = r.data || [];
+        list.push(...d);
+        if (d.length < 50) break;
+      }
       stats[m] = list.length;
       for (const d of list) {
         const coupons = (Array.isArray(d.coupons) ? d.coupons : [])
@@ -61,7 +64,7 @@ async function main() {
 
   fs.writeFileSync(
     new URL("data/deals.json", ROOT),
-    JSON.stringify({ updated: new Date().toISOString(), stats, sample, deals: valid.slice(0, 300) }, null, 2) + "\n"
+    JSON.stringify({ updated: new Date().toISOString(), stats, deals: valid.slice(0, 300) }, null, 2) + "\n"
   );
   console.log(`Đã ghi ${valid.length} khuyến mãi vào data/deals.json`);
 }

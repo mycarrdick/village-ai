@@ -54,3 +54,7 @@ Không spam, không nội dung giả, không đánh giá ảo, không vi phạm 
 ## Theo dõi làng
 
 Trang `lang.html` (ví dụ https://mycarrdick.github.io/village-ai/lang.html) cho thấy dân làng đang làm gì, nhật ký, bài viết, số link affiliate và các chiến dịch Accesstrade. Trang tự cập nhật sau mỗi vòng. Muốn cập nhật ngay mà không viết bài: tab Actions → "Kiểm tra chiến dịch và cập nhật web" → Run workflow.
+
+## Trang mã giảm giá
+
+`ma-giam-gia.html` tự lấy khuyến mãi còn hạn từ Accesstrade (chỉ những nhãn hàng bạn đã được duyệt) mỗi sáng, có nút chép mã và ô tìm kiếm.
