@@ -1,10 +1,11 @@
 {
-  "updated": "2026-10-31T03:18:15.699Z",
+  "updated": "2026-10-31T03:19:15.463Z",
   "source": "accesstrade",
   "stats": {
     "total": 0,
     "approval": {},
     "status": {},
+    "sample": "\"{\\\"message\\\": \\\"Max limited is 50\\\"}\"",
     "approvedQuery": 0,
     "approvedNames": []
   },
