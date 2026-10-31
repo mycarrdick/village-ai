@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T04:27:32.262Z",
+  "updated": "2026-10-31T04:30:08.633Z",
   "stats": {
     "shopeepay_cpr": 0,
     "mb_thudo": 0,
@@ -21,9 +21,8 @@
     "mediamart": 0,
     "mbbank_cpa_android": 0,
     "hoanghamobile": 0,
-    "tikivn": 50
+    "tikivn": 107
   },
-  "sample": "{\"aff_link\":\"https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fmuamuaonline%3Fref%3Dsansandeals\",\"banners\":[],\"categories\":[{\"category_name\":\"EC-29\",\"category_name_show\":\"Other\",\"category_no\":\"\"}],\"content\":\"Giảm 10K cho đơn hàng từ 259K.\\nÁp dụng cho sản phẩm của MuaMuaOnline.\\nMỗi khách hàng được sử dụng tối đa 1 lần.\",\"coupons\":[{\"coupon_code\":\"10K259KK\",\"coupon_desc\":\"Giảm 10K cho đơn hàng từ 259K\"}],\"domain\":\"tiki.vn\",\"end_time\":\"2027-06-30\",\"id\":\"tiki-79792293\",\"image\":\"https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f15",
   "deals": [
     {
       "id": "tiki-79650848",
@@ -218,6 +217,22 @@
       ]
     },
     {
+      "id": "tiki-79572324",
+      "merchant": "tikivn",
+      "name": "[QuaTangMe Extaste]-Giảm 15K cho đơn hàng từ 999K",
+      "content": "Giảm 15K cho đơn hàng từ 999K. Áp dụng cho sản phẩm của QuaTangMe Extaste.",
+      "coupons": [
+        "TANG15000"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fquatangme%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/2b/c6/ee/634ed546ceef2d5e4a4fb7647309abcb.jpg",
+      "start": "2026-10-31",
+      "end": "2026-11-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
       "id": "tiki-79573996",
       "merchant": "tikivn",
       "name": "[Minh Anh 105]-Giảm 500K cho đơn hàng từ 8 triệu",
@@ -229,6 +244,86 @@
       "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/0e/60/37/09a05c7a14d45097b63e005db594ec93.jpg",
       "start": "2026-10-31",
       "end": "2026-12-01",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-47183795",
+      "merchant": "tikivn",
+      "name": "[Bạc Hiểu Minh]-Giảm 10K cho đơn hàng từ 150K",
+      "content": "Giảm 10K cho đơn hàng từ 150K. Áp dụng cho sản phẩm của Bạc Hiểu Minh.",
+      "coupons": [
+        "HIMI10K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fbac-hieu-minh%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/ab/49/ec/307e51903a98855f8c3db38370ef5819.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-17",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-69236371",
+      "merchant": "tikivn",
+      "name": "[Shop 24719]-Giảm 15K cho đơn hàng từ 1",
+      "content": "Giảm 15K cho đơn hàng từ 1.3 triệu. Áp dụng cho sản phẩm của Shop 24719.",
+      "coupons": [
+        "SHOP015K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-24719%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/fd/05/b9/549abe1c08725170a64df53d69c64d92.png",
+      "start": "2026-10-31",
+      "end": "2026-12-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-69236231",
+      "merchant": "tikivn",
+      "name": "[Shop 24719]-Giảm 10K cho đơn hàng từ 699K",
+      "content": "Giảm 10K cho đơn hàng từ 699K. Áp dụng cho sản phẩm của Shop 24719.",
+      "coupons": [
+        "SHOP010K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-24719%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/fd/05/b9/549abe1c08725170a64df53d69c64d92.png",
+      "start": "2026-10-31",
+      "end": "2026-12-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-69112060",
+      "merchant": "tikivn",
+      "name": "[Phukien360]-Giảm 15K cho đơn hàng từ 1",
+      "content": "Giảm 15K cho đơn hàng từ 1.5 triệu. Áp dụng cho sản phẩm của Phukien360.",
+      "coupons": [
+        "SHOPPK15K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fphukien360%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/d1/dc/e8/debd7d87e524f29a7597dbf621f7e829.png",
+      "start": "2026-10-31",
+      "end": "2026-12-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-69111945",
+      "merchant": "tikivn",
+      "name": "[Phukien360]-Giảm 10K cho đơn hàng từ 799K",
+      "content": "Giảm 10K cho đơn hàng từ 799K. Áp dụng cho sản phẩm của Phukien360.",
+      "coupons": [
+        "SHOPPK10K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fphukien360%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/d1/dc/e8/debd7d87e524f29a7597dbf621f7e829.png",
+      "start": "2026-10-31",
+      "end": "2026-12-30",
       "categories": [
         "Other"
       ]
@@ -490,6 +585,246 @@
       ]
     },
     {
+      "id": "tiki-79579371",
+      "merchant": "tikivn",
+      "name": "[Godaptsunny]-Giảm 50K cho đơn hàng từ 1 triệu",
+      "content": "Giảm 50K cho đơn hàng từ 1 triệu. Áp dụng cho sản phẩm của Godaptsunny.",
+      "coupons": [
+        "S2026G50K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fgodaptsunny%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bd/25/ef/3452d5ec81aa96e580f81f466567698c.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79587852",
+      "merchant": "tikivn",
+      "name": "[nolulu shop]-Giảm 30K cho đơn hàng từ 600K",
+      "content": "Giảm 30K cho đơn hàng từ 600K. Áp dụng cho sản phẩm của nolulu shop. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "30KNOLULU"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnolulu-shop%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/75/8a/10/6db628119eec72d100d2db7a1287dc79.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79578939",
+      "merchant": "tikivn",
+      "name": "[Tiện ích 1708]-Giảm 9K cho đơn hàng từ 499K",
+      "content": "Giảm 9K cho đơn hàng từ 499K. Áp dụng cho sản phẩm của Tiện ích 1708.",
+      "coupons": [
+        "WJ2LPXGSV2"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftien-ich-1708%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/12/2c/f8/e2185cff78a50bae90f16291271472b8.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79579372",
+      "merchant": "tikivn",
+      "name": "[Godaptsunny]-Giảm 20K cho đơn hàng từ 180K",
+      "content": "Giảm 20K cho đơn hàng từ 180K. Áp dụng cho sản phẩm của Godaptsunny.",
+      "coupons": [
+        "SUNNY2026"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fgodaptsunny%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bd/25/ef/3452d5ec81aa96e580f81f466567698c.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79578940",
+      "merchant": "tikivn",
+      "name": "[Tiện ích 1708]-Giảm 12K cho đơn hàng từ 799K",
+      "content": "Giảm 12K cho đơn hàng từ 799K. Áp dụng cho sản phẩm của Tiện ích 1708.",
+      "coupons": [
+        "RLBRAAQ4NE"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftien-ich-1708%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/12/2c/f8/e2185cff78a50bae90f16291271472b8.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79573226",
+      "merchant": "tikivn",
+      "name": "[Tân Lộc Phát]-Giảm 40K cho đơn hàng từ 499K",
+      "content": "Giảm 40K cho đơn hàng từ 499K. Áp dụng cho sản phẩm của Tân Lộc Phát.",
+      "coupons": [
+        "UT3L234TBP"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftan-loc-phat%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/3b/98/39/ef084f6920a5ac7e05cdc5aa31cb3313.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79574193",
+      "merchant": "tikivn",
+      "name": "[Sống Official]-Giảm 7K cho đơn hàng từ 599K",
+      "content": "Giảm 7K cho đơn hàng từ 599K. Áp dụng cho sản phẩm của Sống Official. Mỗi khách hàng được sử dụng tối đa 3 lần.",
+      "coupons": [
+        "E2O8YZB1NX"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fabcbooks%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79574185",
+      "merchant": "tikivn",
+      "name": "[Alpha Books Official]-Giảm 7K cho đơn hàng từ 599K",
+      "content": "Giảm 7K cho đơn hàng từ 599K. Áp dụng cho sản phẩm của Alpha Books Official. Mỗi khách hàng được sử dụng tối đa 3 lần.",
+      "coupons": [
+        "CQ4MYYRTHV"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Falphabooks-official%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79574194",
+      "merchant": "tikivn",
+      "name": "[Sống Official]-Giảm 15K cho đơn hàng từ 799K",
+      "content": "Giảm 15K cho đơn hàng từ 799K. Áp dụng cho sản phẩm của Sống Official. Mỗi khách hàng được sử dụng tối đa 3 lần.",
+      "coupons": [
+        "OLT8YBWXAM"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fabcbooks%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79574184",
+      "merchant": "tikivn",
+      "name": "[Alpha Books Official]-Giảm 15K cho đơn hàng từ 799K",
+      "content": "Giảm 15K cho đơn hàng từ 799K. Áp dụng cho sản phẩm của Alpha Books Official. Mỗi khách hàng được sử dụng tối đa 3 lần.",
+      "coupons": [
+        "02CROW0C55"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Falphabooks-official%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79573228",
+      "merchant": "tikivn",
+      "name": "[Tân Lộc Phát]-Giảm 10K cho đơn hàng từ 199K",
+      "content": "Giảm 10K cho đơn hàng từ 199K. Áp dụng cho sản phẩm của Tân Lộc Phát.",
+      "coupons": [
+        "JWPZ7JYAAA"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftan-loc-phat%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/3b/98/39/ef084f6920a5ac7e05cdc5aa31cb3313.jpg",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78663806",
+      "merchant": "tikivn",
+      "name": "[Shop HG]-Giảm 9K cho đơn hàng từ 999K",
+      "content": "Giảm 9K cho đơn hàng từ 999K. Áp dụng cho sản phẩm của Shop HG. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "VCVIP9K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-hg%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78663808",
+      "merchant": "tikivn",
+      "name": "[Shop HG]-Giảm 15K cho đơn hàng từ 2 triệu",
+      "content": "Giảm 15K cho đơn hàng từ 2 triệu. Áp dụng cho sản phẩm của Shop HG. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "VOUVIP15K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-hg%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78663807",
+      "merchant": "tikivn",
+      "name": "[Shop HG]-Giảm 11K cho đơn hàng từ 1",
+      "content": "Giảm 11K cho đơn hàng từ 1.4 triệu. Áp dụng cho sản phẩm của Shop HG. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "VCVIP11K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-hg%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78663805",
+      "merchant": "tikivn",
+      "name": "[Shop HG]-Giảm 7K cho đơn hàng từ 799K",
+      "content": "Giảm 7K cho đơn hàng từ 799K. Áp dụng cho sản phẩm của Shop HG. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "VCVIP7K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshop-hg%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
       "id": "tiki-79569045",
       "merchant": "tikivn",
       "name": "[Áo Dài Mian 1]-Giảm 100K cho đơn hàng từ 3 triệu",
@@ -522,6 +857,38 @@
       ]
     },
     {
+      "id": "tiki-79579837",
+      "merchant": "tikivn",
+      "name": "[Chính Thông]-Giảm 10K cho đơn hàng từ 150K",
+      "content": "Giảm 10K cho đơn hàng từ 150K. Áp dụng cho sản phẩm của Chính Thông. Mỗi khách hàng được sử dụng tối đa 2 lần.",
+      "coupons": [
+        "NAM2026"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnhasachhoasen%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/66/ec/e0/33770909efa68e009aac68b79a0f5595.jpg",
+      "start": "2026-10-31",
+      "end": "2027-01-01",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79579839",
+      "merchant": "tikivn",
+      "name": "[Chính Thông]-Giảm 30K cho đơn hàng từ 390K",
+      "content": "Giảm 30K cho đơn hàng từ 390K. Áp dụng cho sản phẩm của Chính Thông. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "NA2026"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnhasachhoasen%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/66/ec/e0/33770909efa68e009aac68b79a0f5595.jpg",
+      "start": "2026-10-31",
+      "end": "2027-01-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
       "id": "tiki-79581212",
       "merchant": "tikivn",
       "name": "[juno sofa]-Giảm 39K cho đơn hàng từ 2",
@@ -531,6 +898,54 @@
       ],
       "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fjuno-sofa%3Fref%3Dsansandeals",
       "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/20/5b/e8/caa5072349ef6d0b16e20c9d67ef2cdd.jpg",
+      "start": "2026-10-31",
+      "end": "2027-01-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79581210",
+      "merchant": "tikivn",
+      "name": "[juno sofa]-Giảm 19K cho đơn hàng từ 1",
+      "content": "Giảm 19K cho đơn hàng từ 1.8 triệu. Áp dụng cho sản phẩm của juno sofa. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "JUN19"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fjuno-sofa%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/20/5b/e8/caa5072349ef6d0b16e20c9d67ef2cdd.jpg",
+      "start": "2026-10-31",
+      "end": "2027-01-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79581213",
+      "merchant": "tikivn",
+      "name": "[juno sofa]-Giảm 9K cho đơn hàng từ 600K",
+      "content": "Giảm 9K cho đơn hàng từ 600K. Áp dụng cho sản phẩm của juno sofa. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "JUNOCOD"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fjuno-sofa%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/20/5b/e8/caa5072349ef6d0b16e20c9d67ef2cdd.jpg",
+      "start": "2026-10-31",
+      "end": "2027-01-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79579841",
+      "merchant": "tikivn",
+      "name": "[Chính Thông]-Giảm 20K cho đơn hàng từ 250K",
+      "content": "Giảm 20K cho đơn hàng từ 250K. Áp dụng cho sản phẩm của Chính Thông. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "ELEQSZ1081"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnhasachhoasen%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/66/ec/e0/33770909efa68e009aac68b79a0f5595.jpg",
       "start": "2026-10-31",
       "end": "2027-01-31",
       "categories": [
@@ -549,6 +964,54 @@
       "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/b3/38/38/28a102d331886a61bb7924b10698c9fa.jpg",
       "start": "2026-10-31",
       "end": "2027-02-01",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79590623",
+      "merchant": "tikivn",
+      "name": "[AUCOSTA]-Giảm 10K cho đơn hàng từ 150K",
+      "content": "Giảm 10K cho đơn hàng từ 150K. Áp dụng cho sản phẩm của AUCOSTA.",
+      "coupons": [
+        "NEW2026"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Faucosta%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/de/f4/9c/04726f7c3a273596c66669d83ae73e11.jpg",
+      "start": "2026-10-31",
+      "end": "2027-03-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79236469",
+      "merchant": "tikivn",
+      "name": "[GIVER BOOKS & MEDIA]-Giảm 6% tối đa 18K cho đơn hàng từ 249K",
+      "content": "Giảm 6% tối đa 18K cho đơn hàng từ 249K. Áp dụng cho sản phẩm của GIVER BOOKS & MEDIA.",
+      "coupons": [
+        "GIVERCP"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fgiver-books%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/89/9e/7d/e292d266ae6cde91c045c23e97ad05de.jpg",
+      "start": "2026-10-31",
+      "end": "2027-03-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78641648",
+      "merchant": "tikivn",
+      "name": "[Laceva Official Store]-Giảm 40K",
+      "content": "Giảm 40K. Áp dụng cho sản phẩm của Laceva Official Store.",
+      "coupons": [
+        "LACEVA2025"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Flaceva-official-store%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/e5/d5/95/94d434d0c5cfd92f7456f2d0d6d2e3bf.jpg",
+      "start": "2026-10-31",
+      "end": "2027-04-30",
       "categories": [
         "Other"
       ]
@@ -586,6 +1049,70 @@
       ]
     },
     {
+      "id": "tiki-79005680",
+      "merchant": "tikivn",
+      "name": "[Shopquyetnam]-Giảm 165K cho đơn hàng từ 1",
+      "content": "Giảm 165K cho đơn hàng từ 1.9 triệu. Áp dụng cho sản phẩm của Shopquyetnam.",
+      "coupons": [
+        "GIAM165K"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshopquyetnam%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/aa/a5/d6/f546adcd657adf58d40c86d9cb27104d.jpg",
+      "start": "2026-10-31",
+      "end": "2027-08-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77739829",
+      "merchant": "tikivn",
+      "name": "[Shalla]-Giảm 50K cho đơn hàng từ 500K",
+      "content": "Giảm 50K cho đơn hàng từ 500K. Áp dụng cho sản phẩm của Shalla.",
+      "coupons": [
+        "BG540"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshalla%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/ba/e3/bc/f6c44d729b46192315c6d6789c603c80.jpg",
+      "start": "2026-10-31",
+      "end": "2027-09-04",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-61372934",
+      "merchant": "tikivn",
+      "name": "[Nhà Sách Lao Động]-Giảm 10% tối đa 35K",
+      "content": "Giảm 10% tối đa 35K. Áp dụng cho sản phẩm của Nhà Sách Lao Động.",
+      "coupons": [
+        "NSLD2"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnha-sach-lao-dong%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/5d/4a/3e/5d4a3e7b2eb80cfff65b3be51f8573c4.jpg",
+      "start": "2026-10-31",
+      "end": "2027-09-07",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78331179",
+      "merchant": "tikivn",
+      "name": "[Danido Store]-Giảm 9K cho đơn hàng từ 489K",
+      "content": "Giảm 9K cho đơn hàng từ 489K. Áp dụng cho sản phẩm của Danido Store. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "DANI9KALL"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdanido-store%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/d5/ab/b5/4f4870f295a39d65ab138da447da2a17.jpg",
+      "start": "2026-10-31",
+      "end": "2027-09-24",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
       "id": "tiki-78661702",
       "merchant": "tikivn",
       "name": "[juno sofa]-Giảm 49K cho đơn hàng từ 3 triệu",
@@ -597,6 +1124,358 @@
       "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/20/5b/e8/caa5072349ef6d0b16e20c9d67ef2cdd.jpg",
       "start": "2026-10-31",
       "end": "2027-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79591310",
+      "merchant": "tikivn",
+      "name": "[GIVER BOOKS & MEDIA]-Giảm 8% tối đa 28K cho đơn hàng từ 349K",
+      "content": "Giảm 8% tối đa 28K cho đơn hàng từ 349K. Áp dụng cho sản phẩm của GIVER BOOKS & MEDIA.",
+      "coupons": [
+        "GIVERSALE"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fgiver-books%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/2f/5b/a0/9616e3c987afee35b23d7933386a7937.jpg",
+      "start": "2026-10-31",
+      "end": "2027-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78629466",
+      "merchant": "tikivn",
+      "name": "[Shopquyetnam]-Giảm 200K cho đơn hàng từ 1",
+      "content": "Giảm 200K cho đơn hàng từ 1.9 triệu. Áp dụng cho sản phẩm của Shopquyetnam.",
+      "coupons": [
+        "200KGIA"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fshopquyetnam%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/aa/a5/d6/f546adcd657adf58d40c86d9cb27104d.jpg",
+      "start": "2026-10-31",
+      "end": "2027-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77820859",
+      "merchant": "tikivn",
+      "name": "[Quà Tặng Shop 20]-Giảm 15K cho đơn hàng từ 399K",
+      "content": "Giảm 15K cho đơn hàng từ 399K. Áp dụng cho sản phẩm của Quà Tặng Shop 20.",
+      "coupons": [
+        "NGOCSUSI15"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fqua-tang-shop-20%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/14/f6/2f/08e731bcf9aff7b809586ed4683816a6.jpg",
+      "start": "2026-10-31",
+      "end": "2027-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77820850",
+      "merchant": "tikivn",
+      "name": "[Quà Tặng Shop 20]-Giảm 10K cho đơn hàng từ 299K",
+      "content": "Giảm 10K cho đơn hàng từ 299K. Áp dụng cho sản phẩm của Quà Tặng Shop 20.",
+      "coupons": [
+        "NGOCSUSI10"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fqua-tang-shop-20%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/14/f6/2f/08e731bcf9aff7b809586ed4683816a6.jpg",
+      "start": "2026-10-31",
+      "end": "2027-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78271011",
+      "merchant": "tikivn",
+      "name": "[juno sofa]-Giảm 500K cho đơn hàng từ 15 triệu",
+      "content": "Giảm 500K cho đơn hàng từ 15 triệu. Áp dụng cho sản phẩm của juno sofa.",
+      "coupons": [
+        "SY29TYP0C3"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fjuno-sofa%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/20/5b/e8/caa5072349ef6d0b16e20c9d67ef2cdd.jpg",
+      "start": "2026-10-31",
+      "end": "2028-04-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-76860019",
+      "merchant": "tikivn",
+      "name": "[HỆ THỐNG ĐỒ DA HT NEO]-Giảm 30K cho đơn hàng từ 680K",
+      "content": "Giảm 30K cho đơn hàng từ 680K. Áp dụng cho sản phẩm của HỆ THỐNG ĐỒ DA HT NEO. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "MAGIAG30NG"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fhe-thong-do-da-ht-neo%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/56/d8/83/be61f7f8c790492e2c732c4d147f85a8.jpg",
+      "start": "2026-10-31",
+      "end": "2028-06-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-76860015",
+      "merchant": "tikivn",
+      "name": "[HỆ THỐNG ĐỒ DA HT NEO]-Giảm 25K cho đơn hàng từ 575K",
+      "content": "Giảm 25K cho đơn hàng từ 575K. Áp dụng cho sản phẩm của HỆ THỐNG ĐỒ DA HT NEO. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "MAGIAG25NG"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fhe-thong-do-da-ht-neo%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/56/d8/83/be61f7f8c790492e2c732c4d147f85a8.jpg",
+      "start": "2026-10-31",
+      "end": "2028-06-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77828625",
+      "merchant": "tikivn",
+      "name": "[Tin Học Hoàng Kim]-Giảm 20K cho đơn hàng từ 500K",
+      "content": "Giảm 20K cho đơn hàng từ 500K. Áp dụng cho sản phẩm của Tin Học Hoàng Kim.",
+      "coupons": [
+        "HKIM20"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftin-hoc-hoang-kim%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg",
+      "start": "2026-10-31",
+      "end": "2029-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77828624",
+      "merchant": "tikivn",
+      "name": "[Tin Học Hoàng Kim]-Giảm 15K cho đơn hàng từ 350K",
+      "content": "Giảm 15K cho đơn hàng từ 350K. Áp dụng cho sản phẩm của Tin Học Hoàng Kim.",
+      "coupons": [
+        "HKIM15"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftin-hoc-hoang-kim%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg",
+      "start": "2026-10-31",
+      "end": "2029-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77828622",
+      "merchant": "tikivn",
+      "name": "[Tin Học Hoàng Kim]-Giảm 10K cho đơn hàng từ 200K",
+      "content": "Giảm 10K cho đơn hàng từ 200K. Áp dụng cho sản phẩm của Tin Học Hoàng Kim.",
+      "coupons": [
+        "HKIM10"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Ftin-hoc-hoang-kim%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg",
+      "start": "2026-10-31",
+      "end": "2029-12-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78331183",
+      "merchant": "tikivn",
+      "name": "[Danido Store]-Giảm 6K cho đơn hàng từ 215K",
+      "content": "Giảm 6K cho đơn hàng từ 215K. Áp dụng cho sản phẩm của Danido Store. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "DANI6KALL"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdanido-store%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/d5/ab/b5/4f4870f295a39d65ab138da447da2a17.jpg",
+      "start": "2026-10-31",
+      "end": "2030-06-21",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-76862289",
+      "merchant": "tikivn",
+      "name": "[NeO Store]-Giảm 35K cho đơn hàng từ 1",
+      "content": "Giảm 35K cho đơn hàng từ 1.2 triệu. Áp dụng cho sản phẩm của NeO Store. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "MGIG35NG"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fneo-store%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/bc/cf/30/8613e70ec346047ee5fd88dd86a1e935.jpg",
+      "start": "2026-10-31",
+      "end": "2030-06-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-79003497",
+      "merchant": "tikivn",
+      "name": "[SMARTWATCH]-Giảm 10K cho đơn hàng từ 1 triệu",
+      "content": "Giảm 10K cho đơn hàng từ 1 triệu. Áp dụng cho sản phẩm của SMARTWATCH.",
+      "coupons": [
+        "10KK1"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdong-ho-hang-longtime%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/ab/dd/b3/a4c05bf59be54c82982ad7242d66c955.jpg",
+      "start": "2026-10-31",
+      "end": "2030-07-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77716631",
+      "merchant": "tikivn",
+      "name": "[thoitrangthienphucunisex]-Giảm 10K cho đơn hàng từ 280K",
+      "content": "Giảm 10K cho đơn hàng từ 280K. Áp dụng cho sản phẩm của thoitrangthienphucunisex.",
+      "coupons": [
+        "SKLZNXM"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fthoitrangthienphucunisex%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+      "start": "2026-10-31",
+      "end": "2030-08-14",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-70520897",
+      "merchant": "tikivn",
+      "name": "[Đại Phát Tài]-Giảm 10K cho đơn hàng từ 900K",
+      "content": "Giảm 10K cho đơn hàng từ 900K. Áp dụng cho sản phẩm của Đại Phát Tài.",
+      "coupons": [
+        "DPT12"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdai-phat-tai%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/cd/b3/73/cdb3735e0151914cf705609739b1dbda.png",
+      "start": "2026-10-31",
+      "end": "2031-03-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-46446587",
+      "merchant": "tikivn",
+      "name": "[Đại Nam Sport]-Giảm 10K cho đơn hàng từ 250K",
+      "content": "Giảm 10K cho đơn hàng từ 250K. Áp dụng cho sản phẩm của Đại Nam Sport. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "DNS002"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdai-nam-sport%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/1f/91/98/06cd5a17cd61601d65866ec0b579facd.jpg",
+      "start": "2026-10-31",
+      "end": "2033-11-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78331184",
+      "merchant": "tikivn",
+      "name": "[Danido Store]-Giảm 25K cho đơn hàng từ 650K",
+      "content": "Giảm 25K cho đơn hàng từ 650K. Áp dụng cho sản phẩm của Danido Store. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "DANI25KALL"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdanido-store%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/d5/ab/b5/4f4870f295a39d65ab138da447da2a17.jpg",
+      "start": "2026-10-31",
+      "end": "2034-06-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-46446588",
+      "merchant": "tikivn",
+      "name": "[Đại Nam Sport]-Giảm 15K cho đơn hàng từ 350K",
+      "content": "Giảm 15K cho đơn hàng từ 350K. Áp dụng cho sản phẩm của Đại Nam Sport. Mỗi khách hàng được sử dụng tối đa 1 lần.",
+      "coupons": [
+        "DNS003"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdai-nam-sport%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/1f/91/98/06cd5a17cd61601d65866ec0b579facd.jpg",
+      "start": "2026-10-31",
+      "end": "2035-11-30",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-78281797",
+      "merchant": "tikivn",
+      "name": "[Nhà Sách Vĩnh Thụy]-Giảm 6K cho đơn hàng từ 599K",
+      "content": "Giảm 6K cho đơn hàng từ 599K. Áp dụng cho sản phẩm của Nhà Sách Vĩnh Thụy.",
+      "coupons": [
+        "VTDEAL"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fnha-sach-vinh-thuy%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/19/f2/bd/8bda12adffb15edf1b3d8339b0238283.jpg",
+      "start": "2026-10-31",
+      "end": "2038-01-08",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77550986",
+      "merchant": "tikivn",
+      "name": "[DONA Thời Trang]-Giảm 30K cho đơn hàng từ 499K",
+      "content": "Giảm 30K cho đơn hàng từ 499K. Áp dụng cho sản phẩm của DONA Thời Trang.",
+      "coupons": [
+        "DONA30"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdona-thoi-trang%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/a7/9a/3f/be43b6ba2929c28d4d97f4b2ced28325.jpg",
+      "start": "2026-10-31",
+      "end": "2041-06-29",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-70821911",
+      "merchant": "tikivn",
+      "name": "[DONA Thời Trang]-Giảm 11% tối đa 22K cho đơn hàng từ 200K",
+      "content": "Giảm 11% tối đa 22K cho đơn hàng từ 200K. Áp dụng cho sản phẩm của DONA Thời Trang.",
+      "coupons": [
+        "DONAFLR22"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdona-thoi-trang%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/a7/9a/3f/be43b6ba2929c28d4d97f4b2ced28325.jpg",
+      "start": "2026-10-31",
+      "end": "2042-03-31",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "tiki-77551040",
+      "merchant": "tikivn",
+      "name": "[DONA Thời Trang]-Giảm 50K cho đơn hàng từ 699K",
+      "content": "Giảm 50K cho đơn hàng từ 699K. Áp dụng cho sản phẩm của DONA Thời Trang.",
+      "coupons": [
+        "DONA50"
+      ],
+      "link": "https://go.isclix.com/deep_link/7080470333484253351?url=https%3A%2F%2Ftiki.vn%2Fcua-hang%2Fdona-thoi-trang%3Fref%3Dsansandeals",
+      "image": "https://vcdn.tikicdn.com/cache/128x128/ts/seller/a7/9a/3f/be43b6ba2929c28d4d97f4b2ced28325.jpg",
+      "start": "2026-10-31",
+      "end": "2043-08-29",
       "categories": [
         "Other"
       ]
