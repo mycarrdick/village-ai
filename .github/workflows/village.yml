@@ -25,6 +25,10 @@ jobs:
         env:
           ACCESSTRADE_KEY: ${{ secrets.ACCESSTRADE_KEY }}
         run: node src/accesstrade.js
+      - name: Lấy mã giảm giá
+        env:
+          ACCESSTRADE_KEY: ${{ secrets.ACCESSTRADE_KEY }}
+        run: node src/deals.js
       - name: Dân làng làm việc
         uses: anthropics/claude-code-action@v1
         with:
