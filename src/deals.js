@@ -62,6 +62,11 @@ async function main() {
   const valid = deals.filter((d) => !d.end || new Date(d.end).getTime() > now || isNaN(new Date(d.end)));
   valid.sort((a, b) => (b.coupons.length > 0) - (a.coupons.length > 0) || String(a.end).localeCompare(String(b.end)));
 
+  // Accesstrade lỗi hết (ví dụ HTTP 500) thì giữ file cũ, không ghi đè bằng danh sách rỗng
+  if (!deals.length && Object.values(stats).every((v) => String(v).startsWith("lỗi"))) {
+    console.log("Accesstrade lỗi, giữ nguyên data/deals.json");
+    return;
+  }
   fs.writeFileSync(
     new URL("data/deals.json", ROOT),
     JSON.stringify({ updated: new Date().toISOString(), stats, deals: valid.slice(0, 300) }, null, 2) + "\n"

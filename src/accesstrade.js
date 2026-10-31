@@ -101,4 +101,5 @@ async function main() {
 main().catch((e) => {
   // Lỗi Accesstrade không được làm hỏng cả vòng làm việc của làng.
   console.log(`Lỗi Accesstrade: ${e.message}`);
+  fs.writeFileSync(new URL("../data/accesstrade-error.txt", import.meta.url), `${new Date().toISOString()} ${e.message}\n`);
 });
