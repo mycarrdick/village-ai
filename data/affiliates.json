@@ -1,5 +1,12 @@
 {
-  "updated": "2026-10-31T03:16:04.702Z",
+  "updated": "2026-10-31T03:18:15.699Z",
   "source": "accesstrade",
+  "stats": {
+    "total": 0,
+    "approval": {},
+    "status": {},
+    "approvedQuery": 0,
+    "approvedNames": []
+  },
   "offers": []
 }
