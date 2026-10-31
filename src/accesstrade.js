@@ -30,9 +30,28 @@ async function main() {
     console.log("Không có ACCESSTRADE_KEY, bỏ qua bước lấy link Accesstrade.");
     return;
   }
-  const list = await call("/campaigns?approval=successful&limit=100&page=1");
-  const campaigns = (list.data || []).filter((c) => String(c.status) === "1").slice(0, MAX);
-  console.log(`Có ${campaigns.length} chiến dịch đã duyệt đang chạy.`);
+  // Lấy tất cả chiến dịch để thống kê, rồi lọc cái đã duyệt và đang chạy.
+  const all = [];
+  for (let page = 1; page <= 10; page++) {
+    const r = await call(`/campaigns?limit=100&page=${page}`);
+    const d = r.data || [];
+    all.push(...d);
+    if (d.length < 100) break;
+  }
+  const stats = { total: all.length, approval: {}, status: {} };
+  for (const c of all) {
+    stats.approval[c.approval] = (stats.approval[c.approval] || 0) + 1;
+    stats.status[c.status] = (stats.status[c.status] || 0) + 1;
+  }
+  let approved = all.filter((c) => c.approval === "successful");
+  if (!approved.length) {
+    const r = await call("/campaigns?approval=successful&limit=100&page=1");
+    approved = r.data || [];
+    stats.approvedQuery = approved.length;
+  }
+  stats.approvedNames = approved.map((c) => `${c.name} (status ${c.status})`);
+  const campaigns = approved.filter((c) => String(c.status) === "1").slice(0, MAX);
+  console.log(`Thống kê: ${JSON.stringify(stats)}`);
 
   const out = [];
   for (const c of campaigns) {
@@ -59,7 +78,7 @@ async function main() {
 
   fs.writeFileSync(
     OUT,
-    JSON.stringify({ updated: new Date().toISOString(), source: "accesstrade", offers: out }, null, 2) + "\n"
+    JSON.stringify({ updated: new Date().toISOString(), source: "accesstrade", stats, offers: out }, null, 2) + "\n"
   );
   console.log(`Đã ghi ${out.length} link vào data/affiliates.json`);
 }
