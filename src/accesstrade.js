@@ -6,7 +6,7 @@ import fs from "node:fs";
 const KEY = process.env.ACCESSTRADE_KEY;
 const API = "https://api.accesstrade.vn/v1";
 const OUT = new URL("../data/affiliates.json", import.meta.url);
-const MAX = Number(process.env.ACCESSTRADE_MAX || 15);
+const MAX = Number(process.env.ACCESSTRADE_MAX || 25);
 
 const clean = (s) =>
   String(s || "")
@@ -44,7 +44,7 @@ async function main() {
     all.push(...d);
     if (d.length < 50) break;
   }
-  const stats = { total: all.length, approval: {}, status: {}, sample };
+  const stats = { total: all.length, approval: {}, status: {} };
   for (const c of all) {
     stats.approval[c.approval] = (stats.approval[c.approval] || 0) + 1;
     stats.status[c.status] = (stats.status[c.status] || 0) + 1;
