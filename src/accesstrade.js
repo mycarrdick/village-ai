@@ -22,7 +22,11 @@ async function call(path, opts = {}) {
     headers: { Authorization: `token ${KEY}`, "Content-Type": "application/json" },
   });
   if (!res.ok) throw new Error(`${path}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
-  return res.json();
+  let body = await res.json();
+  // API đôi khi trả JSON bị bọc thành chuỗi.
+  if (typeof body === "string") body = JSON.parse(body);
+  if (body?.message && !body.data) throw new Error(`${path}: ${body.message}`);
+  return body;
 }
 
 async function main() {
@@ -34,11 +38,11 @@ async function main() {
   const all = [];
   let sample = "";
   for (let page = 1; page <= 10; page++) {
-    const r = await call(`/campaigns?limit=100&page=${page}`);
+    const r = await call(`/campaigns?limit=50&page=${page}`);
     if (page === 1) sample = JSON.stringify(r).slice(0, 400);
     const d = r.data || [];
     all.push(...d);
-    if (d.length < 100) break;
+    if (d.length < 50) break;
   }
   const stats = { total: all.length, approval: {}, status: {}, sample };
   for (const c of all) {
@@ -47,7 +51,7 @@ async function main() {
   }
   let approved = all.filter((c) => c.approval === "successful");
   if (!approved.length) {
-    const r = await call("/campaigns?approval=successful&limit=100&page=1");
+    const r = await call("/campaigns?approval=successful&limit=50&page=1");
     approved = r.data || [];
     stats.approvedQuery = approved.length;
   }
