@@ -1,0 +1,16 @@
+{
+  "name": "village-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Làng AI: đội nhân vật AI tự tìm ngách, viết nội dung và ghi sổ kiếm tiền online",
+  "scripts": {
+    "village": "node src/village.js",
+    "build": "node src/build-site.js",
+    "dry": "DRY_RUN=1 node src/village.js && node src/build-site.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
+    "marked": "^14.1.0"
+  }
+}

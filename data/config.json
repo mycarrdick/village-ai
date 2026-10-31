@@ -1,0 +1,14 @@
+{
+  "siteName": "Làng AI",
+  "siteUrl": "https://mycarrdick.github.io/village-ai",
+  "language": "vi",
+  "monthlyApiBudgetUsd": 15,
+  "postsPerRun": 1,
+  "affiliateLinks": {
+    "_ghi_chu": "Bình dán link affiliate thật vào đây, ví dụ: \"hosting\": \"https://...\". Nhà văn chỉ dùng link có trong danh sách này.",
+    "vi-du": "https://example.com/?ref=lang-ai"
+  },
+  "products": [
+    { "_ghi_chu": "Sản phẩm số đang bán (Gumroad, Lemon Squeezy...). Điền khi Bình có tài khoản bán hàng.", "name": "", "url": "", "price": "" }
+  ]
+}
