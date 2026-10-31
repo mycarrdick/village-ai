@@ -1,0 +1,82 @@
+# Cập nhật dữ liệu cho sogia.com.vn (repo private mycarrdick/mini-prj) từ repo public này,
+# vì GitHub Actions miễn phí cho repo public. Mã nguồn sogia chỉ được tải vào máy chạy, không công khai.
+# Cần secret: SOGIA_TOKEN (fine-grained token, chỉ repo mini-prj, quyền Contents: Read and write),
+# ACCESSTRADE_KEY (đã có). Tùy chọn: SHOPEE_APP_ID, SHOPEE_SECRET.
+# Log của repo public ai cũng xem được, nên chỉ in vài dòng cuối của mỗi bước.
+name: Cập nhật dữ liệu sogia
+on:
+  schedule:
+    - cron: "30 0 * * *" # 7:30 giờ Việt Nam: thông số kỹ thuật
+    - cron: "30 8 * * *" # 15:30 giờ Việt Nam: giá
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Việc cần chạy"
+        type: choice
+        options: [sync-prices, fetch-specs]
+        default: sync-prices
+permissions:
+  contents: read
+concurrency:
+  group: sogia-data
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - name: Chọn việc
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "job=${{ inputs.job }}" >> "$GITHUB_OUTPUT";
+          elif [ "${{ github.event.schedule }}" = "30 0 * * *" ]; then echo "job=fetch-specs" >> "$GITHUB_OUTPUT";
+          else echo "job=sync-prices" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@v4
+        with:
+          repository: mycarrdick/mini-prj
+          token: ${{ secrets.SOGIA_TOKEN }}
+          path: sogia
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: sogia/package-lock.json
+      - run: npm ci --silent
+        working-directory: sogia
+      - name: Cập nhật giá
+        if: steps.pick.outputs.job == 'sync-prices'
+        working-directory: sogia
+        env:
+          ACCESSTRADE_TOKEN: ${{ secrets.ACCESSTRADE_KEY }}
+          ACCESSTRADE_DOMAINS: tiki.vn,cellphones.com.vn,dienmayxanh.com,thegioididong.com,hc.com.vn,dienmaythienhoa.vn,hoanghamobile.com,hnammobile.com,dienmaycholon.vn,shop.nagakawa.com.vn
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+        run: |
+          cp data/listings.json "$RUNNER_TEMP/listings-before.json"
+          npm run feed > "$RUNNER_TEMP/feed.log" 2>&1 || { tail -20 "$RUNNER_TEMP/feed.log"; exit 1; }
+          tail -5 "$RUNNER_TEMP/feed.log"
+          git add data/listings.json
+          echo "msg=Cập nhật giá tự động" >> "$GITHUB_ENV"
+      - name: Cập nhật thông số
+        if: steps.pick.outputs.job == 'fetch-specs'
+        working-directory: sogia
+        timeout-minutes: 300
+        run: |
+          npm run fetch-specs > "$RUNNER_TEMP/specs.log" 2>&1 || { tail -20 "$RUNNER_TEMP/specs.log"; exit 1; }
+          tail -5 "$RUNNER_TEMP/specs.log"
+          git add data/specs.json
+          echo "msg=Cập nhật thông số từ trang cửa hàng" >> "$GITHUB_ENV"
+      - name: Đẩy lên sogia
+        working-directory: sogia
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git diff --cached --quiet && { echo "Không có thay đổi"; exit 0; }
+          git commit -qm "$msg"
+          git pull -q --rebase
+          git push -q
+      - name: Báo IndexNow
+        if: steps.pick.outputs.job == 'sync-prices'
+        working-directory: sogia
+        continue-on-error: true
+        run: npm run indexnow -- --before "$RUNNER_TEMP/listings-before.json" > /dev/null 2>&1
