@@ -32,13 +32,15 @@ async function main() {
   }
   // Lấy tất cả chiến dịch để thống kê, rồi lọc cái đã duyệt và đang chạy.
   const all = [];
+  let sample = "";
   for (let page = 1; page <= 10; page++) {
     const r = await call(`/campaigns?limit=100&page=${page}`);
+    if (page === 1) sample = JSON.stringify(r).slice(0, 400);
     const d = r.data || [];
     all.push(...d);
     if (d.length < 100) break;
   }
-  const stats = { total: all.length, approval: {}, status: {} };
+  const stats = { total: all.length, approval: {}, status: {}, sample };
   for (const c of all) {
     stats.approval[c.approval] = (stats.approval[c.approval] || 0) + 1;
     stats.status[c.status] = (stats.status[c.status] || 0) + 1;
