@@ -18,7 +18,7 @@ body{max-width:720px;margin:0 auto;padding:16px;font:17px/1.65 system-ui,sans-se
 a{color:#b4542b}h1,h2{line-height:1.25}header a{text-decoration:none;font-weight:700}
 @media (prefers-color-scheme:dark){body{background:#17150f;color:#eee}a{color:#f0a37a}}
 </style></head><body>
-<header><a href="./index.html">${esc(CONFIG.siteName)}</a></header>
+<header><a href="./index.html">${esc(CONFIG.siteName)}</a> · <a href="./lang.html">Xem làng</a></header>
 ${body}
 <footer><p><small>Nội dung do đội AI của ${esc(CONFIG.siteName)} viết. Một số bài có link giới thiệu.</small></p></footer>
 </body></html>`;

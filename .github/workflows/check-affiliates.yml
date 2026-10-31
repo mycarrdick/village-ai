@@ -1,4 +1,4 @@
-name: Kiểm tra chiến dịch Accesstrade
+name: Kiểm tra chiến dịch và cập nhật web
 
 # Chỉ lấy link affiliate, không viết bài (không tốn hạn mức Claude).
 on:
@@ -6,6 +6,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   check:
@@ -24,3 +26,8 @@ jobs:
           git add data/affiliates.json
           git commit -m "Cập nhật chiến dịch Accesstrade" || echo "Không đổi"
           git push
+      - run: npm install && npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

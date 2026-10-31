@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Làng AI</title>
+<style>
+:root{--bg:#f6f1e7;--card:#fffdf8;--ink:#2a2418;--muted:#7a6e5a;--line:#e4dccb;--accent:#b4542b;--good:#2f7d4f}
+@media (prefers-color-scheme:dark){:root{--bg:#16140f;--card:#211d16;--ink:#efe8da;--muted:#a89c86;--line:#3a3328;--accent:#f0a37a;--good:#7fd19d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 system-ui,sans-serif}
+main{max-width:1000px;margin:0 auto;padding:16px}
+h1{font-size:26px;margin:8px 0 2px}h2{font-size:17px;margin:28px 0 10px}
+.muted{color:var(--muted)}a{color:var(--accent)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin-top:16px}
+.stat,.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.stat b{display:block;font-size:24px}.stat span{color:var(--muted);font-size:13px}
+.village{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.card .icon{font-size:30px}.card h3{margin:4px 0 0;font-size:16px}.card .job{color:var(--muted);font-size:13px}
+.card .now{margin-top:8px;font-size:14px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+td,th{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top;font-size:14px}
+th{color:var(--muted);font-weight:600}.wrap{overflow-x:auto}
+.tag{display:inline-block;padding:1px 8px;border-radius:99px;font-size:12px;border:1px solid var(--line)}
+.tag.ok{color:var(--good);border-color:var(--good)}
+ol.timeline{list-style:none;padding:0;margin:0}ol.timeline li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-bottom:8px}
+</style></head><body><main>
+<h1>🏡 Làng AI</h1>
+<div class="muted">Cập nhật lúc 10:27:17 31/10/2026 · làng làm việc lúc 8 giờ sáng mỗi ngày · <a href="./index.html">Xem blog</a></div>
+
+<div class="stats">
+<div class="stat"><b>3</b><span>bài đã đăng</span></div>
+<div class="stat"><b>0</b><span>bài có link affiliate</span></div>
+<div class="stat"><b>21</b><span>chiến dịch đang dùng được</span></div>
+<div class="stat"><b>0$</b><span>doanh thu đã ghi</span></div>
+</div>
+
+<h2>Dân làng</h2>
+<div class="village">
+<div class="card"><div class="icon">👑</div><h3>Trưởng làng</h3><div class="job">Chọn ngách tiếp theo</div><div class="now">Chọn chủ đề &quot;Lập quỹ khẩn cấp từ con số 0 cho người trẻ&quot;</div></div>
+<div class="card"><div class="icon">🔍</div><h3>Thám tử</h3><div class="job">Tìm từ khóa, nghiên cứu thị trường</div><div class="now">Nối tiếp chủ đề tài chính cá nhân, từ khóa &quot;quỹ khẩn cấp/quỹ dự phòng&quot; được người Việt tìm nhiều; `data/affiliates.json` hiện chưa có chiến dịch nào (offers rỗng) nên viết bài thuần hữu ích, không chèn link.</div></div>
+<div class="card"><div class="icon">✍️</div><h3>Nhà văn</h3><div class="job">Viết bài có link affiliate</div><div class="now">Viết &quot;Lập quỹ khẩn cấp từ con số 0: 5 bước cho người trẻ lương không cao&quot; (1070 chữ)</div></div>
+<div class="card"><div class="icon">💰</div><h3>Thủ quỹ</h3><div class="job">Ghi nhật ký, đếm link và doanh thu</div><div class="now">21 chiến dịch, 0/3 bài có link</div></div>
+</div>
+
+<h2>Nhật ký</h2>
+<ol class="timeline">
+<li><b>Lập quỹ khẩn cấp từ con số 0 cho người trẻ</b> <span class="muted">· 2026-10-31</span><div class="muted">Không dùng chiến dịch affiliate · Nối tiếp chủ đề tài chính cá nhân, từ khóa &quot;quỹ khẩn cấp/quỹ dự phòng&quot; được người Việt tìm nhiều; `data/affiliates.json` hiện chưa có chiến dịch nào (offers rỗng) nên viết bài thuần hữu ích, không chèn link.</div></li>
+<li><b>Học tiếng Anh với AI cho người đi làm</b> <span class="muted">· 2026-10-31</span><div class="muted">Không dùng chiến dịch affiliate · Đổi sang ngách AI + học tập/sự nghiệp, tránh lặp tài chính cá nhân; từ khóa &quot;học tiếng Anh bằng ChatGPT&quot; được người Việt tìm nhiều; `data/affiliates.json` vẫn chưa có offer nên không chèn link.</div></li>
+<li><b>Quản lý lương đầu tiên cho người mới đi làm</b> <span class="muted">· 2026-10-31</span><div class="muted">Bài đầu tiên; chủ đề người Việt trẻ hay tìm, chưa có link affiliate thật nên viết bài thuần hữu ích, không chèn link.</div></li>
+</ol>
+
+<h2>Bài viết</h2>
+<div class="wrap"><table><tr><th>Ngày</th><th>Bài</th><th>Chữ</th><th>Link aff</th></tr>
+<tr><td>2026-10-31</td><td><a href="./2026-10-31-quan-ly-luong-dau-tien-cho-nguoi-moi-di-lam.html">Lương đầu tiên: cách chia tiền đơn giản cho người mới đi làm</a></td><td>915</td><td><span class="tag">0</span></td></tr>
+<tr><td>2026-10-31</td><td><a href="./2026-10-31-lap-quy-khan-cap-tu-con-so-0.html">Lập quỹ khẩn cấp từ con số 0: 5 bước cho người trẻ lương không cao</a></td><td>1070</td><td><span class="tag">0</span></td></tr>
+<tr><td>2026-10-31</td><td><a href="./2026-10-31-hoc-tieng-anh-voi-ai-cho-nguoi-di-lam.html">Học tiếng Anh với AI cho người đi làm: 5 cách dùng chatbot như một gia sư</a></td><td>940</td><td><span class="tag">0</span></td></tr>
+</table></div>
+
+<h2>Chiến dịch Accesstrade</h2>
+<div class="wrap"><table><tr><th>Chiến dịch</th><th>Hoa hồng</th><th>Link</th></tr>
+<tr><td><b>[ShopeePay] Shopee Pay CPR Shoppe</b></td><td class="muted">Mốc Hoa hồng Dưới 50 tài khoản 70.000VNĐ 50-99 tài khoản 75.000VNĐ 100-199 tài khoản 80.000VNĐ Từ 200 tài khoản 85.000VN</td><td><a href="https://shorten.asia/jr1KpkCQ" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>MB THỦ ĐÔ</b></td><td class="muted">KH Mới KH Cũ 210.000 vnđ 140.000 vnđ</td><td><a href="https://shorten.asia/mwDW2JU8" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>iShinhan Vay Android</b></td><td class="muted">Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan &quot;Vay tài tốc&quot; dưới 2 tỷ 2.5 % iShinhan – PL Salarie</td><td><a href="https://shorten.asia/tVURkuv6" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>iShinhan Vay IOS</b></td><td class="muted">Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan &quot;Vay tài tốc&quot; dưới 2 tỷ 2.5 % 2 - 5 tỷ 2.7% Trên 5 </td><td><a href="https://shorten.asia/RFzrp2p9" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>Shopee Food Tài xế</b></td><td class="muted">250,000/CPQL</td><td><a href="https://shorten.asia/N3a6X3En" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>AppMax_Thẻ+Vay</b></td><td class="muted">SẢN PHẨM 1: MAX CARD Khách hàng được cấp hạn mức tín dụng thành công trên 1 triệu (CPA1): 455.000 VNĐ SẢN PHẨM 2: VAY TÍ</td><td><a href="https://shorten.asia/knurWyeP" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>VPBank - Vay Tín chấp</b></td><td class="muted">Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.5% Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&amp;gt; thưởng t</td><td><a href="https://shorten.asia/A7XwzxYG" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>GALAXY APP</b></td><td class="muted">Chính sách hoa hồng: chưa bao gồm VAT Lưu ý: Hệ thống tạm tính hoa hồng theo gói thấp nhất, gói và mức hoa hồng chính xá</td><td><a href="https://shorten.asia/CCGEkVfR" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>GSM - TUYỂN TÀI XẾ XE MÁY</b></td><td class="muted">Hoa hồng (Chưa VAT): 245.000 VNĐ/ CPA</td><td><a href="https://shorten.asia/uyjTw43d" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>HDBank Creator</b></td><td class="muted">Chính sách thưởng cố định ( Mức thưởng đã bao gồm thuế TNCN) 5đ/ 1 lượt xem (nền tảng FB và Tiktok, riêng đối với chiến </td><td><a href="https://shorten.asia/K9ZmCkuq" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>ZALO ADS LANDINGPAGE</b></td><td class="muted">Đối với luồng CPR: Hoa hồng CPR theo tỉ lệ chuyển đổi từ Lead -&amp;gt; nạp tiền thành công Chính sách giá (chưa VAT) 0 - 20</td><td><a href="https://shorten.asia/zDUEhyRQ" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>VIB - SIÊU LỢI SUẤT</b></td><td class="muted">Chính sách hoa hồng 1/8/2026 Tài khoản thanh toán: 22.000đ/đơn Thẻ thanh toán: 12.000đ/đơn Điều kiện: Phát sinh giao dịc</td><td><a href="https://shorten.asia/aApjcfAd" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>TIKTOK SHOP CPS</b></td><td class="muted">Lưu ý: Hoa hồng hiển thị trên hệ thống khi dán link hoặc tại trang product-feed đã bao gồm VAT, khi đối soát số thực tế </td><td><a href="https://shorten.asia/PntSDe8w" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>VPBank - tài khoản cá nhân </b></td><td class="muted">Hoa hồng tháng 7 Hoa hồng 45k khi thực hiện đồng thời action Ngày 1: ekyc + nhập mã + psgd chuyển khoản khác CIF 10k Ngà</td><td><a href="https://shorten.asia/mDxpEuJ6" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>VPBank - kinh doanh nhỏ</b></td><td class="muted">Hoa hồng tháng 4 Điều kiện Pub com Từ 01 - 20 đơn 135,000 Từ 20 - 50 đơn 140,000 Từ 50 đơn trở lên 145,000</td><td><a href="https://shorten.asia/4tAerpmP" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>CellphoneS</b></td><td class="muted">T ổng hợp CTKM hằng ngày tại đây Từ 16/04/2025: Tất cả các đơn hàng Affiliate có nhập code SVIP của CellPhoneS sẽ không </td><td><a href="https://shorten.asia/WExFkQWK" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE</b></td><td class="muted">Thu nhập của bạn đến từ 3 TẦNG CỘNG LẠI: Tầng A: Nhận từ 5.000đ - 8.000đ trên mỗi lượt giới thiệu đăng ký thành công. Tầ</td><td><a href="https://shorten.asia/5hPH4xZU" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>MediaMart</b></td><td class="muted">Bảng hoa hồng (chưa bao gồm VAT): Ngành hàng Hoa hồng cơ bản Ti vi COEX 2,80% Tủ lạnh, máy giặt, máy sấy COEX Gia dụng C</td><td><a href="https://shorten.asia/h5MrREd3" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>MB Bank - LINK GIỚI THIỆU</b></td><td class="muted">HOA HỒNG CHIẾN DỊCH: 70K/CPR Nếu bạn có thể chạy số lượng lớn vui lòng liên hệ AM để có mức hoa hồng hấp dẫn hơn nhé! Lư</td><td><a href="https://shorten.asia/WC72a1FJ" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>Hoàng Hà Mobile</b></td><td class="muted">- 0.63% / giá trị đơn hàng (là giá trị đơn hàng thực tế được khách hàng thanh toán khi nhận hàng - không phải là giá trị</td><td><a href="https://shorten.asia/SbNBEumq" rel="nofollow sponsored">link</a></td></tr>
+<tr><td><b>TIKI (CPS)</b></td><td class="muted">Hoa hồng gốc áp dụng hàng tháng: tại đây Hiển thị sponsor = 0 tức là không có hoa hồng sponsor. Hoa hồng tháng 10/</td><td><a href="https://shorten.asia/nrgUdmmk" rel="nofollow sponsored">link</a></td></tr>
+</table></div>
+<p class="muted">Cập nhật chiến dịch lúc 2026-10-31T03:21:27.182Z.</p>
+</main></body></html>

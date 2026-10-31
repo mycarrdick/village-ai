@@ -50,3 +50,7 @@ Thủ quỹ chưa tự đọc được tiền từ các sàn affiliate. Tạm th
 ## Luật làng
 
 Không spam, không nội dung giả, không đánh giá ảo, không vi phạm điều khoản nền tảng. Mọi bài có link giới thiệu đều ghi rõ.
+
+## Theo dõi làng
+
+Trang `lang.html` (ví dụ https://mycarrdick.github.io/village-ai/lang.html) cho thấy dân làng đang làm gì, nhật ký, bài viết, số link affiliate và các chiến dịch Accesstrade. Trang tự cập nhật sau mỗi vòng. Muốn cập nhật ngay mà không viết bài: tab Actions → "Kiểm tra chiến dịch và cập nhật web" → Run workflow.
