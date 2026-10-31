@@ -56,6 +56,15 @@ async function main() {
     stats.approvedQuery = approved.length;
   }
   stats.approvedNames = approved.map((c) => `${c.name} (status ${c.status})`);
+  // Danh sách gọn mọi chiến dịch (kể cả chưa đăng ký) để biết shop nào có chiến dịch mà chưa đăng ký
+  fs.writeFileSync(
+    new URL("../data/campaigns-all.json", import.meta.url),
+    JSON.stringify(
+      all.map((c) => ({ id: c.id, name: c.name, merchant: c.merchant, approval: c.approval, status: c.status, url: c.url })),
+      null,
+      1,
+    ),
+  );
   const campaigns = approved.filter((c) => String(c.status) === "1").slice(0, MAX);
   console.log(`Thống kê: ${JSON.stringify(stats)}`);
 
