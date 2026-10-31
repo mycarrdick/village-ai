@@ -36,6 +36,7 @@ jobs:
           repository: mycarrdick/mini-prj
           token: ${{ secrets.SOGIA_TOKEN }}
           path: sogia
+          fetch-depth: 0 # cần lịch sử git để tính lịch sử giá 30 ngày
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -55,6 +56,8 @@ jobs:
           cp data/listings.json "$RUNNER_TEMP/listings-before.json"
           npm run feed > "$RUNNER_TEMP/feed.log" 2>&1 || { tail -20 "$RUNNER_TEMP/feed.log"; exit 1; }
           tail -5 "$RUNNER_TEMP/feed.log"
+          # Lịch sử giá 30 ngày (nhãn "thấp nhất 30 ngày" và trang /giam-gia); bỏ qua nếu repo sogia chưa có script
+          if [ -f scripts/price-history.mts ]; then npx tsx scripts/price-history.mts && git add data/price-history.json; fi
           git add data/listings.json
           echo "msg=Cập nhật giá tự động" >> "$GITHUB_ENV"
       - name: Cập nhật thông số
