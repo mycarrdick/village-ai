@@ -18,6 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Lấy link Accesstrade
+        env:
+          ACCESSTRADE_KEY: ${{ secrets.ACCESSTRADE_KEY }}
+        run: node src/accesstrade.js
       - name: Dân làng làm việc
         uses: anthropics/claude-code-action@v1
         with:
@@ -32,9 +39,6 @@ jobs:
           git add site data
           git commit -m "Làng AI: bài mới $(date -u +%F)" || echo "Không có gì mới"
           git push
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
       - run: npm install && npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
