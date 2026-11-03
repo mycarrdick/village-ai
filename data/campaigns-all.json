@@ -40,6 +40,14 @@
   "url": "https://app.appsflyer.com/id1465217154?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
  },
  {
+  "id": "7073924423820975592",
+  "name": "Shein",
+  "merchant": "shein_mobikok",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.shein.com/"
+ },
+ {
   "id": "7073874095910363548",
   "name": "[ShopeePay] Shopee Pay CPR Shoppe",
   "merchant": "shopeepay_cpr",
@@ -118,14 +126,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://cellphones.com.vn/mobile/apple/iphone-18.html"
- },
- {
-  "id": "7048569846378525145",
-  "name": "Cellphones_preordercamp [luồng cho Publisher)",
-  "merchant": "cellphones_preordercamp",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://cellphones.com.vn/mobile/apple/iphone-duo.html"
  },
  {
   "id": "7041410167338139054",
@@ -462,14 +462,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://www.kidsplaza.vn/"
- },
- {
-  "id": "6923208811031507234",
-  "name": "KIS",
-  "merchant": "kis",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://trading.kisvn.vn/ekyc?inputCusChannelID=eKYC&clientIntroducer=MKT.AT"
  },
  {
   "id": "6907309041542059055",
@@ -1216,14 +1208,6 @@
   "url": "https://vinwonders.com/vi/"
  },
  {
-  "id": "6254185502532465966",
-  "name": "AVAKIDs",
-  "merchant": "avakid",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://www.avakids.com/flashsale"
- },
- {
   "id": "6222994945811367082",
   "name": "GoStream WEB",
   "merchant": "gostream_web",
@@ -1414,22 +1398,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://vera.com.vn/"
- },
- {
-  "id": "5751981382510607935",
-  "name": "Điện máy xanh",
-  "merchant": "dmx",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://www.dienmayxanh.com/flashsale"
- },
- {
-  "id": "5751976138501713517",
-  "name": "Thế giới di động",
-  "merchant": "tgdd",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://www.thegioididong.com/flashsale"
  },
  {
   "id": "5572780493629372052",

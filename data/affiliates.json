@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-01T06:59:04.555Z",
+  "updated": "2026-11-03T07:22:37.956Z",
   "source": "accesstrade",
   "stats": {
-    "total": 212,
+    "total": 208,
     "approval": {
-      "unregistered": 191,
+      "unregistered": 187,
       "successful": 21
     },
     "status": {
-      "1": 212
+      "1": 208
     },
     "approvedNames": [
       "[ShopeePay] Shopee Pay CPR Shoppe (status 1)",
@@ -111,8 +111,8 @@
       "name": "GSM - TUYỂN TÀI XẾ XE MÁY",
       "merchant": "xanhsmbike",
       "category": "63 / 84",
-      "commission": "Hoa hồng (Chưa VAT): 245.000 VNĐ/ CPA",
-      "about": "Xanh SM Bike là thương hiệu taxi điện đầu tiên tại Việt Nam. Chuyên cung cấp dịch vụ taxi tiêu chuẩn, taxi cao cấp và di chuyển bằng xe máy điện. Xanh SM sử dụng hoàn toàn ô tô điện và xe máy điện Vin",
+      "commission": "ÁP DỤNG TỪ THÁNG 11/2026 Tuyển thành công tài xế cơ hữu (*): 245,000 VND/ CPA Tuyển thành công tài xế platform (**): 200,000 VND/ CPA (*) Tài xế cơ hữu: Tài xế sử dụng xe do Xanh SM cấp (**) Tài xế pl",
+      "about": "GSM Bike là thương hiệu taxi điện đầu tiên tại Việt Nam. Chuyên cung cấp dịch vụ taxi tiêu chuẩn, taxi cao cấp và di chuyển bằng xe máy điện. Xanh SM sử dụng hoàn toàn ô tô điện và xe máy điện VinFast",
       "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
       "link": "https://shorten.asia/uyjTw43d"
     },
