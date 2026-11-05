@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:04:38.667Z",
+  "updated": "2026-11-05T07:30:10.021Z",
   "source": "accesstrade",
   "stats": {
     "total": 208,
@@ -93,7 +93,7 @@
       "name": "VPBank - Vay Tín chấp",
       "merchant": "vpbank3t_vaytinchap",
       "category": "60 / 80",
-      "commission": "Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.5% Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&gt; thưởng thêm cho pub 1.000.000 VND",
+      "commission": "Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.6% (Từ 1/11 đến 31/12) Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&gt; thưởng thêm cho pub 1.000.000 VND *Liên hệ AM để được giải đáp thắc ",
       "about": "VPBank, hay Ngân hàng TMCP Việt Nam Thịnh Vượng, là một trong những ngân hàng thương mại cổ phần tại Việt Nam. Được thành lập vào năm 1993, VPBank cung cấp đa dạng các dịch vụ tài chính ngân hàng, bao",
       "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
       "link": "https://shorten.asia/A7XwzxYG"
