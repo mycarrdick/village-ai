@@ -1,5 +1,13 @@
 [
  {
+  "id": "7095655116741216824",
+  "name": "Philips Shopee PUB",
+  "merchant": "philips_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/philipspersonalcare.vn"
+ },
+ {
   "id": "7095541872498786182",
   "name": "Trường Nhân Shopee Loyalty",
   "merchant": "truongnhan_shopee_loyalty",
@@ -88,6 +96,14 @@
   "url": "https://app.appsflyer.com/com.ncb.bank?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
  },
  {
+  "id": "7070896977606662248",
+  "name": "FE CREDIT APP ONLINE 2.0",
+  "merchant": "fechb",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vaytienmat.caiapp.online/?utm=at"
+ },
+ {
   "id": "7065217053323038272",
   "name": "BẢO TÍN MẠNH HẢI - TRANG SỨC",
   "merchant": "btmh_trangsuc",
@@ -110,14 +126,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://zalo.me/s/2318306526162317296"
- },
- {
-  "id": "7049254362691761714",
-  "name": "AI Tử Vi",
-  "merchant": "aituvi",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://aituvi.com/"
  },
  {
   "id": "7048579915696501989",
@@ -438,14 +446,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://zalo.me/s/3992782672212867607/games/affiliate"
- },
- {
-  "id": "6939168971888171572",
-  "name": "Thẩm Mỹ Viện Ngọc Dung",
-  "merchant": "ngocdung_tmv",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://uudai.thammyvienngocdung.com/xn--soc-accesstrade-t3-2026-0-pdd?utm_medium=Accesstrade&utm_campaign=10&utm_term=thang3&utm_content=Accesstrade_0%C4%91"
  },
  {
   "id": "6933204679968195072",
@@ -824,14 +824,6 @@
   "url": "https://online.bhv.com.vn/sharedlink?ref=f402d406-47cf-4228-8c29-9b40355a310c"
  },
  {
-  "id": "6622353900146644734",
-  "name": "SAMSUNG BANK",
-  "merchant": "samsungbank",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://www.samsung.com/vn/"
- },
- {
   "id": "6614454346312590528",
   "name": "VPBank Thẻ Direct",
   "merchant": "vpb_direct",
@@ -1184,14 +1176,6 @@
   "url": "https://www.vib.com.vn/vn/the-tin-dung/dang-ky/buoc-1?card_type=vib-family-link"
  },
  {
-  "id": "6283264608507544489",
-  "name": "Samsung Student",
-  "merchant": "samsung_optimise_student",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://shop.samsung.com/vn/multistore/vnepp/vn_affiliatea/auth/multistore"
- },
- {
   "id": "6259155740535091857",
   "name": "CellphoneS",
   "merchant": "cellphones_cps",
@@ -1310,14 +1294,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://merriman.com.vn/"
- },
- {
-  "id": "5934452518832414765",
-  "name": "SAMSUNG",
-  "merchant": "samsung_optimise",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://www.samsung.com/vn/"
  },
  {
   "id": "5909157745200696347",

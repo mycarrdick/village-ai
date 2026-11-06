@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-05T07:30:10.021Z",
+  "updated": "2026-11-06T07:29:12.492Z",
   "source": "accesstrade",
   "stats": {
-    "total": 208,
+    "total": 205,
     "approval": {
-      "unregistered": 187,
+      "unregistered": 184,
       "successful": 21
     },
     "status": {
-      "1": 208
+      "1": 205
     },
     "approvedNames": [
       "[ShopeePay] Shopee Pay CPR Shoppe (status 1)",
