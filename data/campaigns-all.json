@@ -784,14 +784,6 @@
   "url": "https://www.trivago.sg/"
  },
  {
-  "id": "6678146530804371195",
-  "name": "MBS - CHỨNG KHOÁN",
-  "merchant": "mbs_finance",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://chungkhoanmb.go.link?adj_t=1m92rvmu"
- },
- {
   "id": "6664405991260008150",
   "name": "VIB - SIÊU LỢI SUẤT",
   "merchant": "vib_sieuloisuat",
