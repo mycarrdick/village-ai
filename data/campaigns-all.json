@@ -1,5 +1,45 @@
 [
  {
+  "id": "7105125015620536067",
+  "name": "Romand Shopee Loyalty",
+  "merchant": "romand_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/romand.officialstore"
+ },
+ {
+  "id": "7105125015509882615",
+  "name": "Romand Shopee PUB",
+  "merchant": "romand_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/romand.officialstore"
+ },
+ {
+  "id": "7104963963357453342",
+  "name": "Merzy Shopee Loyalty",
+  "merchant": "merzy_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/merzy.officialstore"
+ },
+ {
+  "id": "7104961433954710976",
+  "name": "Merzy Shopee PUB",
+  "merchant": "merzy_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/merzy.officialstore"
+ },
+ {
+  "id": "7096349702149850100",
+  "name": "Avents Shopee PUB",
+  "merchant": "avents_shopee",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/philipsaventvietnam"
+ },
+ {
   "id": "7095655116741216824",
   "name": "Philips Shopee PUB",
   "merchant": "philips_shopee",
@@ -246,6 +286,14 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://www.malaysiaairlines.com/vn/vi/home.html"
+ },
+ {
+  "id": "6999108942360578188",
+  "name": "KEEBU ADDLOST",
+  "merchant": "keebu_addlost",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://istools.accesstrade.vn/m/merchant-campaign-regist"
  },
  {
   "id": "6998582973587010773",
