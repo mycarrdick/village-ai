@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-09T07:23:03.118Z",
+  "updated": "2026-11-10T07:52:11.721Z",
   "source": "accesstrade",
   "stats": {
-    "total": 210,
+    "total": 211,
     "approval": {
-      "unregistered": 189,
+      "unregistered": 190,
       "successful": 21
     },
     "status": {
-      "1": 210
+      "1": 211
     },
     "approvedNames": [
       "[ShopeePay] Shopee Pay CPR Shoppe (status 1)",
@@ -24,7 +24,7 @@
       "ZALO ADS LANDINGPAGE (status 1)",
       "VIB - SIÊU LỢI SUẤT (status 1)",
       "TIKTOK SHOP CPS (status 1)",
-      "VPBank - tài khoản cá nhân  (status 1)",
+      "VPBank - tài khoản cá nhân (status 1)",
       "VPBank - kinh doanh nhỏ (status 1)",
       "CellphoneS (status 1)",
       "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE (status 1)",
@@ -153,7 +153,7 @@
       "link": "https://shorten.asia/PntSDe8w"
     },
     {
-      "name": "VPBank - tài khoản cá nhân ",
+      "name": "VPBank - tài khoản cá nhân",
       "merchant": "vpbank_user",
       "category": "35 / 36",
       "commission": "Hoa hồng tháng 7 Hoa hồng 45k khi thực hiện đồng thời action Ngày 1: ekyc + nhập mã + psgd chuyển khoản khác CIF 10k Ngày 2: psgd chuyển khoản khác CIF 10k Hoa hồng 55k khi thực hiện đồng thời action ",

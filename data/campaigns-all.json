@@ -33,7 +33,7 @@
  },
  {
   "id": "7096349702149850100",
-  "name": "Avents Shopee PUB",
+  "name": "Philips Avents Shopee PUB",
   "merchant": "avents_shopee",
   "approval": "unregistered",
   "status": 1,
@@ -41,7 +41,7 @@
  },
  {
   "id": "7095655116741216824",
-  "name": "Philips Shopee PUB",
+  "name": "Philips Personal Shopee PUB",
   "merchant": "philips_shopee",
   "approval": "unregistered",
   "status": 1,
@@ -294,6 +294,14 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://istools.accesstrade.vn/m/merchant-campaign-regist"
+ },
+ {
+  "id": "6998603104451383109",
+  "name": "Tambadana",
+  "merchant": "tambadana",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://hq1.appsflyer.com/apps/myapps"
  },
  {
   "id": "6998582973587010773",
@@ -1057,7 +1065,7 @@
  },
  {
   "id": "6502869082635662898",
-  "name": "VPBank - tài khoản cá nhân ",
+  "name": "VPBank - tài khoản cá nhân",
   "merchant": "vpbank_user",
   "approval": "successful",
   "status": 1,
