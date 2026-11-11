@@ -40,6 +40,22 @@
   "url": "https://shopee.vn/philipsaventvietnam"
  },
  {
+  "id": "7096349701850887115",
+  "name": "Avents Shopee Loyalty",
+  "merchant": "avents_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/philipsaventvietnam"
+ },
+ {
+  "id": "7095660150161279631",
+  "name": "Philips Personal Shopee Loyalty",
+  "merchant": "philips_shopee_loyalty",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://shopee.vn/philipspersonalcare.vn"
+ },
+ {
   "id": "7095655116741216824",
   "name": "Philips Personal Shopee PUB",
   "merchant": "philips_shopee",
