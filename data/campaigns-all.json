@@ -96,14 +96,6 @@
   "url": "https://app.appsflyer.com/com.ncb.bank?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
  },
  {
-  "id": "7075228028295268363",
-  "name": "NCB IOS Thẻ tín dụng",
-  "merchant": "ncb_credit_ios",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://app.appsflyer.com/id1465217154?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
- },
- {
   "id": "7073924423820975592",
   "name": "Shein",
   "merchant": "shein_mobikok",
@@ -134,22 +126,6 @@
   "approval": "unregistered",
   "status": 1,
   "url": "https://www.vietnamstar.mercedes-benz.com.vn/passengercars/offers/dac-quyen.html"
- },
- {
-  "id": "7071002672488285412",
-  "name": "NCB IOS Tài khoản thanh toán",
-  "merchant": "ncb_account_ios",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://app.appsflyer.com/id1465217154?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
- },
- {
-  "id": "7071002672384086693",
-  "name": "[Test] NCB Android Tài khoản thanh toán",
-  "merchant": "ncb_account_android",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://app.appsflyer.com/com.ncb.bank?pid=accesstradevn_int&af_siteid={psn}&af_c_id={campaign}&af_click_lookback=7d&clickid={clickid}"
  },
  {
   "id": "7070896977606662248",
