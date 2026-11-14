@@ -89,7 +89,7 @@
  },
  {
   "id": "7075230546192426380",
-  "name": "NCB Android Thẻ tín dụng",
+  "name": "NCB Thẻ tín dụng (Luồng mở thường & AND)",
   "merchant": "ncb_credit_android",
   "approval": "unregistered",
   "status": 1,
