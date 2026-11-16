@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T07:20:02.003Z",
+  "updated": "2026-11-16T07:27:12.019Z",
   "source": "accesstrade",
   "stats": {
     "total": 210,
@@ -45,13 +45,13 @@
       "link": "https://shorten.asia/jr1KpkCQ"
     },
     {
-      "name": "MB THỦ ĐÔ",
-      "merchant": "mb_thudo",
-      "category": "35 / 36",
-      "commission": "KH Mới KH Cũ 210.000 vnđ 140.000 vnđ",
-      "about": "MB Bank cung cấp các giải pháp tài chính toàn diện dành cho hộ kinh doanh, doanh nghiệp và khách hàng cá nhân. Với thủ tục đơn giản, quy trình số hóa hiện đại và đội ngũ hỗ trợ tận tâm. MB Bank mang đ",
-      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
-      "link": "https://shorten.asia/mwDW2JU8"
+      "name": "iShinhan Vay Android",
+      "merchant": "ishinhan_android",
+      "category": "60 / 81",
+      "commission": "Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan \"Vay tài tốc\" dưới 2 tỷ 2.5 % iShinhan – PL Salaries \"vay lương\" dưới 2 tỷ 2.8%",
+      "about": "Shinhan Finance chính thức giới thiệu sản phẩm vay hoàn toàn mới mang tên “Tài Tốc” – giải pháp tài chính tốc độ dành cho mọi người. Đây là gói vay tiêu dùng online 100% , cho phép khách hàng đăng ký,",
+      "rules": "",
+      "link": "https://shorten.asia/tVURkuv6"
     },
     {
       "name": "Shopee Food Tài xế",
@@ -63,40 +63,49 @@
       "link": "https://shorten.asia/N3a6X3En"
     },
     {
-      "name": "AppMax_Thẻ+Vay",
-      "merchant": "vibmax_refcode",
-      "category": "60",
-      "commission": "SẢN PHẨM 1: MAX CARD Khách hàng được cấp hạn mức tín dụng thành công trên 1 triệu (CPA1): 455.000 VNĐ SẢN PHẨM 2: VAY TÍN CHẤP Khách hàng nhận giải ngân vay tín chấp thành công (CPS): 2.1% x STGN",
-      "about": "MAX by VIB là ứng dụng chính thức từ Ngân hàng Quốc tế (VIB) giúp Khách hàng quản lý ưu đãi, mở thẻ, trả góp và vay tiền mặt 100% online – nhanh chóng, tiện lợi, bảo mật tuyệt đối. Tính năng nổi bật: ",
-      "rules": "- Không cấm SEM brandname - Quy đinh cho Publisher: TẠI ĐÂY.",
-      "link": "https://shorten.asia/knurWyeP"
+      "name": "VPBank - Vay Tín chấp",
+      "merchant": "vpbank3t_vaytinchap",
+      "category": "60 / 80",
+      "commission": "Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.6% (Từ 1/11 đến 31/12) Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&gt; thưởng thêm cho pub 1.000.000 VND *Liên hệ AM để được giải đáp thắc ",
+      "about": "VPBank, hay Ngân hàng TMCP Việt Nam Thịnh Vượng, là một trong những ngân hàng thương mại cổ phần tại Việt Nam. Được thành lập vào năm 1993, VPBank cung cấp đa dạng các dịch vụ tài chính ngân hàng, bao",
+      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
+      "link": "https://shorten.asia/A7XwzxYG"
     },
     {
-      "name": "HDBank Creator",
-      "merchant": "hdbank_creator",
+      "name": "GSM - TUYỂN TÀI XẾ XE MÁY",
+      "merchant": "xanhsmbike",
+      "category": "63 / 84",
+      "commission": "ÁP DỤNG TỪ THÁNG 11/2026 Tuyển thành công tài xế cơ hữu (*): 245,000 VND/ CPA Tuyển thành công tài xế platform (**): 200,000 VND/ CPA (*) Tài xế cơ hữu: Tài xế sử dụng xe do Xanh SM cấp (**) Tài xế pl",
+      "about": "GSM Bike là thương hiệu taxi điện đầu tiên tại Việt Nam. Chuyên cung cấp dịch vụ taxi tiêu chuẩn, taxi cao cấp và di chuyển bằng xe máy điện. Xanh SM sử dụng hoàn toàn ô tô điện và xe máy điện VinFast",
+      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
+      "link": "https://shorten.asia/uyjTw43d"
+    },
+    {
+      "name": "ZALO ADS LANDINGPAGE",
+      "merchant": "zaloads_lpd",
       "category": "35 / 36",
-      "commission": "Chính sách thưởng cố định ( Mức thưởng đã bao gồm thuế TNCN) 5đ/ 1 lượt xem (nền tảng FB và Tiktok, riêng đối với chiến dịch thẻ chỉ chạy Tiktok) Riêng đối với chủ đề Vay: 7đ/view Chính sách THƯỞNG TH",
-      "about": "HDBank Creator – Sáng tạo nội dung về HDBank, triệu view nhận tiền triệu! 🌟 Sân chơi đầy cảm hứng dành cho những ai đam mê sáng tạo, nơi bạn thỏa sức lan tỏa sức hút của chương trình HDBank Creator q",
-      "rules": "Quy định cho Publisher: TẠI ĐÂY.",
-      "link": "https://shorten.asia/K9ZmCkuq"
+      "commission": "Đối với luồng CPR: Hoa hồng CPR theo tỉ lệ chuyển đổi từ Lead -&gt; nạp tiền thành công Chính sách giá (chưa VAT) 0 - 20% 7,000 20 - 40% 10,000 &gt; 40% 15,000 Đối với luồng CPA: Hoa hồng trên số tiền",
+      "about": "Đừng bỏ lỡ kênh marketing hiệu quả nhất để đưa sản phẩm/dịch vụ của bạn đến gần 76 triệu người dùng Zalo. Tiếp cận đích đến: Nhắm mục tiêu chính xác theo sở thích, hành vi. Tăng trưởng doanh thu: Biến",
+      "rules": "- Publisher không được chạy quảng cáo từ khoá thương hiệu trên Google, Cốc Cốc, danh sách từ khoá cấm chạy tại đây - Quy định cho Publisher: tại đây",
+      "link": "https://shorten.asia/zDUEhyRQ"
     },
     {
-      "name": "TIKTOK SHOP CPS",
-      "merchant": "tiktok_cps",
-      "category": "59 / 59",
-      "commission": "Lưu ý: Hoa hồng hiển thị trên hệ thống khi dán link hoặc tại trang product-feed đã bao gồm VAT, khi đối soát số thực tế sẽ là số trước thuế VAT Từ tháng 01/2026 , đã áp dụng mức hoa hồng chưa VAT Hoa ",
-      "about": "TikTok Shop là nền tảng thương mại điện tử tích hợp ngay trên ứng dụng TikTok, cho phép người bán giới thiệu và bán sản phẩm trực tiếp thông qua video ngắn, livestream và cưa hàng. Với lợi thế kết hợp",
-      "rules": "Chiến dịch cấm SEM Brand name Quy định cho Publisher: tại đây C ẬP NHẬT CHÍNH SÁCH NGHIÊM CẤM GIAN LẬN Update: 01/07/2026 Chính sách Chống Gian lận này nhằm đảm bảo một hệ sinh thái công bằng, minh bạ",
-      "link": "https://shorten.asia/PntSDe8w"
-    },
-    {
-      "name": "VPBank - tài khoản cá nhân",
-      "merchant": "vpbank_user",
+      "name": "VPBank - kinh doanh nhỏ",
+      "merchant": "vpbank_merchant",
       "category": "35 / 36",
-      "commission": "Hoa hồng tháng 7 Hoa hồng 45k khi thực hiện đồng thời action Ngày 1: ekyc + nhập mã + psgd chuyển khoản khác CIF 10k Ngày 2: psgd chuyển khoản khác CIF 10k Hoa hồng 55k khi thực hiện đồng thời action ",
-      "about": "VPBank NEO là sản phẩm ngân hàng điện tử của VPBank giúp khách hàng giao dịch đơn giản, tiện lợi chỉ với một cú click “Đăng nhập Internet Banking” và một mật khẩu bảo mật an toàn. Hướng dẫn đăng ký tà",
+      "commission": "Hoa hồng tháng 4 Điều kiện \bPub com Từ 01 - 20 đơn 135,000 Từ 20 - 50 đơn 140,000 Từ 50 đơn trở lên 145,000",
+      "about": "VPBank NEO là sản phẩm ngân hàng điện tử của VPBank giúp khách hàng giao dịch đơn giản, tiện lợi chỉ với một cú click “Đăng nhập Internet Banking” và một mật khẩu bảo mật an toàn Từ ngày 7.11.2024, kh",
       "rules": "- Không cấm SEM brandname - Quy định cho Publisher: TẠI ĐÂY.",
-      "link": "https://shorten.asia/mDxpEuJ6"
+      "link": "https://shorten.asia/4tAerpmP"
+    },
+    {
+      "name": "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE",
+      "merchant": "oneat_referral_firebase",
+      "category": "29 / 29",
+      "commission": "Thu nhập của bạn đến từ 3 TẦNG CỘNG LẠI: Tầng A: Nhận từ 5.000đ - 8.000đ trên mỗi lượt giới thiệu đăng ký thành công. Tầng B: Nhận thêm 25.000đ trên mỗi Publisher mới có đơn được duyệt đầu tiên. Tầng ",
+      "about": "Chiến dịch “ ACCESSTRADE Referral ” là Chiến dịch Publisher giới thiệu bạn mới đăng ký ACCESSTRADE và trải nghiệm công việc Affiliate Marketing. Đây là chiến dịch đặc biệt nơi Publisher giới thiệu bạn",
+      "rules": "- Quy định cho Publisher: tại đây A/ Các trường hợp được khuyến khích chạy: Tạo nội dung hữu ích hướng dẫn người đọc làm Affiliate, Kiếm tiền online trên website, Blog… xây dựng chiến lược SEO lâu dài",
+      "link": "https://shorten.asia/5hPH4xZU"
     },
     {
       "name": "MB Bank - LINK GIỚI THIỆU",
@@ -108,13 +117,13 @@
       "link": "https://shorten.asia/WC72a1FJ"
     },
     {
-      "name": "Hoàng Hà Mobile",
-      "merchant": "hoanghamobile",
-      "category": "59 / 21",
-      "commission": "- 0.63% / giá trị đơn hàng (là giá trị đơn hàng thực tế được khách hàng thanh toán khi nhận hàng - không phải là giá trị đơn hàng trên Web) ( chưa bao gồm VAT ) Hoa hồng sản phẩm mới: STT Sản phẩm mới",
-      "about": "Được thành lập từ năm 1996, chúng tôi là một trong những nhà phân phối ĐTDĐ đầu tiên tại Hà Nội và kể từ năm 2000, chính thức trở thành nhà phân phối ĐTDĐ SamSung – Masterdealer duy nhất tại 194 đường",
-      "rules": "Cấm SEM brand name: Hoàng Hà, HH, H.Hà, Hoang Ha, hoanghamobile, hoangha, hoanghamobile.com",
-      "link": "https://shorten.asia/SbNBEumq"
+      "name": "TIKI (CPS)",
+      "merchant": "tikivn",
+      "category": "59 / 59",
+      "commission": "Hoa hồng gốc áp dụng hàng tháng: tại đây Hiển thị sponsor = 0 tức là không có hoa hồng sponsor. Hoa hồng tháng 10/2026: Lịch Upsize Hoa Hồng Cơ Bản October.2026 CƠ HỘI TĂNG DOANH THU VỚI NHIỀU C",
+      "about": "TIKI - Siêu thị mua sắm trực tuyến hàng đầu Việt Nam sở hữu hơn 30,000 nhà bán hàng, phục vụ hơn 30 triệu khách hàng với hơn 20 ngành hàng đa dạng, từ điện tử, thời trang đến mỹ phẩm và đồ gia dụng, n",
+      "rules": "Nghiêm cấm các publisher sử dụng các hình thức sau để tạo traffic và đơn hàng: 1. Mạo danh hình ảnh và thương hiệu của Bên B để quảng cáo: Đơn hàng phát sinh từ các đơn vị tiếp thị tạo ấn t",
+      "link": "https://shorten.asia/nrgUdmmk"
     }
   ]
 }
