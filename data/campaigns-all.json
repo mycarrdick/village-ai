@@ -33,7 +33,7 @@
  },
  {
   "id": "7096349702149850100",
-  "name": "Philips Avents Shopee PUB",
+  "name": "Philips Avent Shopee PUB",
   "merchant": "avents_shopee",
   "approval": "unregistered",
   "status": 1,
@@ -41,7 +41,7 @@
  },
  {
   "id": "7096349701850887115",
-  "name": "Avents Shopee Loyalty",
+  "name": "Philips Avent Shopee Loyalty",
   "merchant": "avents_shopee_loyalty",
   "approval": "unregistered",
   "status": 1,
