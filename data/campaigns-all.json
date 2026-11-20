@@ -1,5 +1,13 @@
 [
  {
+  "id": "7109289958028422782",
+  "name": "Best Price - 3839",
+  "merchant": "bestprice_2026",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.bestpricetravel.com/"
+ },
+ {
   "id": "7105125015620536067",
   "name": "Romand Shopee Loyalty",
   "merchant": "romand_shopee_loyalty",
