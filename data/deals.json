@@ -1,15 +1,16 @@
 {
-  "updated": "2026-11-20T07:52:46.573Z",
+  "updated": "2026-11-21T07:49:05.056Z",
   "stats": {
     "shopeepay_cpr": 0,
-    "ishinhan_android": 0,
-    "shopeefood_taixe": "lỗi: HTTP 429",
-    "vpbank3t_vaytinchap": 0,
-    "hdbank_creator": "lỗi: HTTP 429",
-    "zaloads_lpd": 0,
-    "vpbank_merchant": "lỗi: HTTP 429",
-    "oneat_referral_firebase": "lỗi: HTTP 429",
-    "hoanghamobile": "lỗi: HTTP 429"
+    "ishinhan_ios": 0,
+    "shopeefood_taixe": 0,
+    "vibmax_refcode": "lỗi: HTTP 429",
+    "vpbank3t_vaytinchap": "lỗi: HTTP 429",
+    "zaloads_lpd": "lỗi: HTTP 429",
+    "vpbank_user": "lỗi: HTTP 429",
+    "vpbank_merchant": 0,
+    "mbbank_cpa_android": "lỗi: HTTP 429",
+    "tikivn": "lỗi: HTTP 429"
   },
   "deals": []
 }
