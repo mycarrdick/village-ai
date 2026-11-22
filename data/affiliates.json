@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-21T07:49:01.863Z",
+  "updated": "2026-11-22T07:37:41.580Z",
   "source": "accesstrade",
   "stats": {
-    "total": 210,
+    "total": 209,
     "approval": {
       "unregistered": 189,
-      "successful": 21
+      "successful": 20
     },
     "status": {
-      "1": 210
+      "1": 209
     },
     "approvedNames": [
       "[ShopeePay] Shopee Pay CPR Shoppe (status 1)",
-      "MB THỦ ĐÔ (status 1)",
       "iShinhan Vay Android (status 1)",
       "iShinhan Vay IOS (status 1)",
       "Shopee Food Tài xế (status 1)",
@@ -45,40 +44,22 @@
       "link": "https://shorten.asia/jr1KpkCQ"
     },
     {
-      "name": "iShinhan Vay IOS",
-      "merchant": "ishinhan_ios",
+      "name": "iShinhan Vay Android",
+      "merchant": "ishinhan_android",
       "category": "60 / 81",
-      "commission": "Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan \"Vay tài tốc\" dưới 2 tỷ 2.5 % 2 - 5 tỷ 2.7% Trên 5 tỷ 3.0% iShinhan – PL Salaries \"vay lương\" dưới 2 tỷ 2.8% 2 - 5 tỷ 3.0% 5 - 7 tỷ",
+      "commission": "Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan \"Vay tài tốc\" dưới 2 tỷ 2.5 % iShinhan – PL Salaries \"vay lương\" dưới 2 tỷ 2.8%",
       "about": "Shinhan Finance chính thức giới thiệu sản phẩm vay hoàn toàn mới mang tên “Tài Tốc” – giải pháp tài chính tốc độ dành cho mọi người. Đây là gói vay tiêu dùng online 100% , cho phép khách hàng đăng ký,",
       "rules": "",
-      "link": "https://shorten.asia/RFzrp2p9"
+      "link": "https://shorten.asia/tVURkuv6"
     },
     {
-      "name": "Shopee Food Tài xế",
-      "merchant": "shopeefood_taixe",
-      "category": "64 / 87",
-      "commission": "250,000/CPQL",
-      "about": "ShopeeFood là ứng dụng giao đồ ăn trực tuyến hàng đầu thuộc hệ sinh thái Shopee, sở hữu lượng người dùng khổng lồ cùng nguồn đơn hàng dồi dào, liên tục mỗi ngày. Nhằm đáp ứng nhu cầu thị trường ngày c",
-      "rules": "Hướng dẫn cho PUB: TẠI ĐÂY Nghiêm cấm vi phạm SEM brandname Nghiêm cấm spam data người dùng, spam lead rác:",
-      "link": "https://shorten.asia/N3a6X3En"
-    },
-    {
-      "name": "AppMax_Thẻ+Vay",
-      "merchant": "vibmax_refcode",
-      "category": "60",
-      "commission": "SẢN PHẨM 1: MAX CARD Khách hàng được cấp hạn mức tín dụng thành công trên 1 triệu (CPA1): 455.000 VNĐ SẢN PHẨM 2: VAY TÍN CHẤP Khách hàng nhận giải ngân vay tín chấp thành công (CPS): 2.1% x STGN",
-      "about": "MAX by VIB là ứng dụng chính thức từ Ngân hàng Quốc tế (VIB) giúp Khách hàng quản lý ưu đãi, mở thẻ, trả góp và vay tiền mặt 100% online – nhanh chóng, tiện lợi, bảo mật tuyệt đối. Tính năng nổi bật: ",
-      "rules": "- Không cấm SEM brandname - Quy đinh cho Publisher: TẠI ĐÂY.",
-      "link": "https://shorten.asia/knurWyeP"
-    },
-    {
-      "name": "VPBank - Vay Tín chấp",
-      "merchant": "vpbank3t_vaytinchap",
-      "category": "60 / 80",
-      "commission": "Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.6% (Từ 1/11 đến 31/12) Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&gt; thưởng thêm cho pub 1.000.000 VND *Liên hệ AM để được giải đáp thắc ",
-      "about": "VPBank, hay Ngân hàng TMCP Việt Nam Thịnh Vượng, là một trong những ngân hàng thương mại cổ phần tại Việt Nam. Được thành lập vào năm 1993, VPBank cung cấp đa dạng các dịch vụ tài chính ngân hàng, bao",
-      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
-      "link": "https://shorten.asia/A7XwzxYG"
+      "name": "GALAXY APP",
+      "merchant": "galaxy_app",
+      "category": "65 / 37",
+      "commission": "Chính sách hoa hồng: chưa bao gồm VAT Lưu ý: Hệ thống tạm tính hoa hồng theo gói thấp nhất, gói và mức hoa hồng chính xác sẽ được cập nhật sau khi đối soát",
+      "about": "Galaxy Play là một ứng dụng xem phim trực tuyến (VOD – Video On Demand) có bản quyền tại Việt Nam. Ứng dụng được phát triển bởi Công ty Cổ phần Galaxy Play, thành viên của Tập đoàn Giải trí &amp; Giáo",
+      "rules": "- Quy định cho Publisher: tại đây",
+      "link": "https://shorten.asia/CCGEkVfR"
     },
     {
       "name": "ZALO ADS LANDINGPAGE",
@@ -90,13 +71,13 @@
       "link": "https://shorten.asia/zDUEhyRQ"
     },
     {
-      "name": "VPBank - tài khoản cá nhân",
-      "merchant": "vpbank_user",
-      "category": "35 / 36",
-      "commission": "Hoa hồng tháng 7 Hoa hồng 45k khi thực hiện đồng thời action Ngày 1: ekyc + nhập mã + psgd chuyển khoản khác CIF 10k Ngày 2: psgd chuyển khoản khác CIF 10k Hoa hồng 55k khi thực hiện đồng thời action ",
-      "about": "VPBank NEO là sản phẩm ngân hàng điện tử của VPBank giúp khách hàng giao dịch đơn giản, tiện lợi chỉ với một cú click “Đăng nhập Internet Banking” và một mật khẩu bảo mật an toàn. Hướng dẫn đăng ký tà",
-      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: TẠI ĐÂY.",
-      "link": "https://shorten.asia/mDxpEuJ6"
+      "name": "VIB - SIÊU LỢI SUẤT",
+      "merchant": "vib_sieuloisuat",
+      "category": "MOBILE OFFER / Action nạp tiền,Mobile Banking",
+      "commission": "Chính sách hoa hồng 1/8/2026 Tài khoản thanh toán: 22.000đ/đơn Thẻ thanh toán: 12.000đ/đơn Điều kiện: Phát sinh giao dịch (PSGD) trong vòng 30 ngày với giá trị từ 100.000đ trở lên ( Áp dụng cho giao d",
+      "about": "Ngân hàng Quốc tế VIB là một trong những ngân hàng thương mại cổ phần hàng đầu tại Việt Nam. VIB chú trọng vào chuyển đổi số với các dịch vụ ngân hàng hiện đại trên ứng dụng MyVIB . Dịch vụ mở tài kho",
+      "rules": "- Không cấm SEM brandname - Quy đinh cho Publisher: TẠI ĐÂY.",
+      "link": "https://shorten.asia/aApjcfAd"
     },
     {
       "name": "VPBank - kinh doanh nhỏ",
@@ -108,22 +89,13 @@
       "link": "https://shorten.asia/4tAerpmP"
     },
     {
-      "name": "MB Bank - LINK GIỚI THIỆU",
-      "merchant": "mbbank_cpa_android",
-      "category": "35 / 36",
-      "commission": "HOA HỒNG CHIẾN DỊCH: 70K/CPR Nếu bạn có thể chạy số lượng lớn vui lòng liên hệ AM để có mức hoa hồng hấp dẫn hơn nhé! Lưu ý: Chiến dịch này yêu cầu user đăng nhập app tối thiểu 3 lần để tránh bị nghi ",
-      "about": "Ngân hàng Quân đội - viết tắt là MB, là ngân hàng thương mại cổ phần của Việt Nam, một doanh nghiệp trực thuộc Bộ Quốc phòng. Ngày 14/02/2020 MB ra mắt phiên bản App mới đi kèm vô vàn khuyến mãi dành ",
-      "rules": "- Chiến dịch không cấm SEM Brandname",
-      "link": "https://shorten.asia/WC72a1FJ"
-    },
-    {
-      "name": "TIKI (CPS)",
-      "merchant": "tikivn",
-      "category": "59 / 59",
-      "commission": "Hoa hồng gốc áp dụng hàng tháng: tại đây Hiển thị sponsor = 0 tức là không có hoa hồng sponsor. Hoa hồng tháng 10/2026: Lịch Upsize Hoa Hồng Cơ Bản October.2026 CƠ HỘI TĂNG DOANH THU VỚI NHIỀU C",
-      "about": "TIKI - Siêu thị mua sắm trực tuyến hàng đầu Việt Nam sở hữu hơn 30,000 nhà bán hàng, phục vụ hơn 30 triệu khách hàng với hơn 20 ngành hàng đa dạng, từ điện tử, thời trang đến mỹ phẩm và đồ gia dụng, n",
-      "rules": "Nghiêm cấm các publisher sử dụng các hình thức sau để tạo traffic và đơn hàng: 1. Mạo danh hình ảnh và thương hiệu của Bên B để quảng cáo: Đơn hàng phát sinh từ các đơn vị tiếp thị tạo ấn t",
-      "link": "https://shorten.asia/nrgUdmmk"
+      "name": "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE",
+      "merchant": "oneat_referral_firebase",
+      "category": "29 / 29",
+      "commission": "Thu nhập của bạn đến từ 3 TẦNG CỘNG LẠI: Tầng A: Nhận từ 5.000đ - 8.000đ trên mỗi lượt giới thiệu đăng ký thành công. Tầng B: Nhận thêm 25.000đ trên mỗi Publisher mới có đơn được duyệt đầu tiên. Tầng ",
+      "about": "Chiến dịch “ ACCESSTRADE Referral ” là Chiến dịch Publisher giới thiệu bạn mới đăng ký ACCESSTRADE và trải nghiệm công việc Affiliate Marketing. Đây là chiến dịch đặc biệt nơi Publisher giới thiệu bạn",
+      "rules": "- Quy định cho Publisher: tại đây A/ Các trường hợp được khuyến khích chạy: Tạo nội dung hữu ích hướng dẫn người đọc làm Affiliate, Kiếm tiền online trên website, Blog… xây dựng chiến lược SEO lâu dài",
+      "link": "https://shorten.asia/5hPH4xZU"
     }
   ]
 }

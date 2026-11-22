@@ -320,14 +320,6 @@
   "url": "https://tinvay.vietcredit.com.vn/"
  },
  {
-  "id": "6990399044122386089",
-  "name": "MB THỦ ĐÔ",
-  "merchant": "mb_thudo",
-  "approval": "successful",
-  "status": 1,
-  "url": "https://td.caiapp.online"
- },
- {
   "id": "6989080358306994310",
   "name": "VN Express Tour - CPS Website",
   "merchant": "vne_tour",
