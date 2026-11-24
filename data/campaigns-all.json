@@ -1,5 +1,13 @@
 [
  {
+  "id": "7119587834347357135",
+  "name": "Vigo Onboard Seller",
+  "merchant": "vigo_ob",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://vigo.vn/"
+ },
+ {
   "id": "7109289958028422782",
   "name": "Best Price - 3839",
   "merchant": "bestprice_2026",
@@ -1213,7 +1221,7 @@
   "merchant": "cellphones_cps",
   "approval": "successful",
   "status": 1,
-  "url": "https://cellphones.com.vn/danh-sach-khuyen-mai"
+  "url": "https://cellphones.com.vn/black-friday"
  },
  {
   "id": "6258612159538991400",
