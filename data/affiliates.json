@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:32:20.628Z",
+  "updated": "2026-11-25T09:21:33.331Z",
   "source": "accesstrade",
   "stats": {
     "total": 210,
@@ -44,22 +44,22 @@
       "link": "https://shorten.asia/jr1KpkCQ"
     },
     {
-      "name": "iShinhan Vay Android",
-      "merchant": "ishinhan_android",
+      "name": "iShinhan Vay IOS",
+      "merchant": "ishinhan_ios",
       "category": "60 / 81",
-      "commission": "Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan \"Vay tài tốc\" dưới 2 tỷ 2.5 % iShinhan – PL Salaries \"vay lương\" dưới 2 tỷ 2.8%",
+      "commission": "Sản phẩm Số tiền giải ngân Hoa hồng từng mốc iShinhan - Express Loan \"Vay tài tốc\" dưới 2 tỷ 2.5 % 2 - 5 tỷ 2.7% Trên 5 tỷ 3.0% iShinhan – PL Salaries \"vay lương\" dưới 2 tỷ 2.8% 2 - 5 tỷ 3.0% 5 - 7 tỷ",
       "about": "Shinhan Finance chính thức giới thiệu sản phẩm vay hoàn toàn mới mang tên “Tài Tốc” – giải pháp tài chính tốc độ dành cho mọi người. Đây là gói vay tiêu dùng online 100% , cho phép khách hàng đăng ký,",
       "rules": "",
-      "link": "https://shorten.asia/tVURkuv6"
+      "link": "https://shorten.asia/RFzrp2p9"
     },
     {
-      "name": "VPBank - Vay Tín chấp",
-      "merchant": "vpbank3t_vaytinchap",
-      "category": "60 / 80",
-      "commission": "Hoa hồng pub nhận = Tổng số giải ngân trong tháng x 2.6% (Từ 1/11 đến 31/12) Nếu tổng số tiền giải ngân trong tháng trên 3 tỷ =&gt; thưởng thêm cho pub 1.000.000 VND *Liên hệ AM để được giải đáp thắc ",
-      "about": "VPBank, hay Ngân hàng TMCP Việt Nam Thịnh Vượng, là một trong những ngân hàng thương mại cổ phần tại Việt Nam. Được thành lập vào năm 1993, VPBank cung cấp đa dạng các dịch vụ tài chính ngân hàng, bao",
-      "rules": "- Không cấm SEM brandname - Quy định cho Publisher: tại đây",
-      "link": "https://shorten.asia/A7XwzxYG"
+      "name": "GALAXY APP",
+      "merchant": "galaxy_app",
+      "category": "65 / 37",
+      "commission": "Chính sách hoa hồng: chưa bao gồm VAT Lưu ý: Hệ thống tạm tính hoa hồng theo gói thấp nhất, gói và mức hoa hồng chính xác sẽ được cập nhật sau khi đối soát",
+      "about": "Galaxy Play là một ứng dụng xem phim trực tuyến (VOD – Video On Demand) có bản quyền tại Việt Nam. Ứng dụng được phát triển bởi Công ty Cổ phần Galaxy Play, thành viên của Tập đoàn Giải trí &amp; Giáo",
+      "rules": "- Quy định cho Publisher: tại đây",
+      "link": "https://shorten.asia/CCGEkVfR"
     },
     {
       "name": "HDBank Creator",
@@ -80,6 +80,15 @@
       "link": "https://shorten.asia/zDUEhyRQ"
     },
     {
+      "name": "TIKTOK SHOP CPS",
+      "merchant": "tiktok_cps",
+      "category": "59 / 59",
+      "commission": "Lưu ý: Hoa hồng hiển thị trên hệ thống khi dán link hoặc tại trang product-feed đã bao gồm VAT, khi đối soát số thực tế sẽ là số trước thuế VAT Từ tháng 01/2026 , đã áp dụng mức hoa hồng chưa VAT Hoa ",
+      "about": "TikTok Shop là nền tảng thương mại điện tử tích hợp ngay trên ứng dụng TikTok, cho phép người bán giới thiệu và bán sản phẩm trực tiếp thông qua video ngắn, livestream và cưa hàng. Với lợi thế kết hợp",
+      "rules": "Chiến dịch cấm SEM Brand name Quy định cho Publisher: tại đây C ẬP NHẬT CHÍNH SÁCH NGHIÊM CẤM GIAN LẬN Update: 01/07/2026 Chính sách Chống Gian lận này nhằm đảm bảo một hệ sinh thái công bằng, minh bạ",
+      "link": "https://shorten.asia/PntSDe8w"
+    },
+    {
       "name": "VPBank - tài khoản cá nhân",
       "merchant": "vpbank_user",
       "category": "35 / 36",
@@ -98,13 +107,13 @@
       "link": "https://shorten.asia/uw6FjdtA"
     },
     {
-      "name": "MB Bank - LINK GIỚI THIỆU",
-      "merchant": "mbbank_cpa_android",
-      "category": "35 / 36",
-      "commission": "HOA HỒNG CHIẾN DỊCH: 70K/CPR Nếu bạn có thể chạy số lượng lớn vui lòng liên hệ AM để có mức hoa hồng hấp dẫn hơn nhé! Lưu ý: Chiến dịch này yêu cầu user đăng nhập app tối thiểu 3 lần để tránh bị nghi ",
-      "about": "Ngân hàng Quân đội - viết tắt là MB, là ngân hàng thương mại cổ phần của Việt Nam, một doanh nghiệp trực thuộc Bộ Quốc phòng. Ngày 14/02/2020 MB ra mắt phiên bản App mới đi kèm vô vàn khuyến mãi dành ",
-      "rules": "- Chiến dịch không cấm SEM Brandname",
-      "link": "https://shorten.asia/WC72a1FJ"
+      "name": "ACCESSTRADE Referral - Giới thiệu bạn mới đăng ký ACCESSTRADE",
+      "merchant": "oneat_referral_firebase",
+      "category": "29 / 29",
+      "commission": "Thu nhập của bạn đến từ 3 TẦNG CỘNG LẠI: Tầng A: Nhận từ 5.000đ - 8.000đ trên mỗi lượt giới thiệu đăng ký thành công. Tầng B: Nhận thêm 25.000đ trên mỗi Publisher mới có đơn được duyệt đầu tiên. Tầng ",
+      "about": "Chiến dịch “ ACCESSTRADE Referral ” là Chiến dịch Publisher giới thiệu bạn mới đăng ký ACCESSTRADE và trải nghiệm công việc Affiliate Marketing. Đây là chiến dịch đặc biệt nơi Publisher giới thiệu bạn",
+      "rules": "- Quy định cho Publisher: tại đây A/ Các trường hợp được khuyến khích chạy: Tạo nội dung hữu ích hướng dẫn người đọc làm Affiliate, Kiếm tiền online trên website, Blog… xây dựng chiến lược SEO lâu dài",
+      "link": "https://shorten.asia/5hPH4xZU"
     },
     {
       "name": "Hoàng Hà Mobile",
@@ -114,6 +123,15 @@
       "about": "Được thành lập từ năm 1996, chúng tôi là một trong những nhà phân phối ĐTDĐ đầu tiên tại Hà Nội và kể từ năm 2000, chính thức trở thành nhà phân phối ĐTDĐ SamSung – Masterdealer duy nhất tại 194 đường",
       "rules": "Cấm SEM brand name: Hoàng Hà, HH, H.Hà, Hoang Ha, hoanghamobile, hoangha, hoanghamobile.com",
       "link": "https://shorten.asia/SbNBEumq"
+    },
+    {
+      "name": "TIKI (CPS)",
+      "merchant": "tikivn",
+      "category": "59 / 59",
+      "commission": "Hoa hồng gốc áp dụng hàng tháng: tại đây Hiển thị sponsor = 0 tức là không có hoa hồng sponsor. Hoa hồng tháng 10/2026: Lịch Upsize Hoa Hồng Cơ Bản October.2026 CƠ HỘI TĂNG DOANH THU VỚI NHIỀU C",
+      "about": "TIKI - Siêu thị mua sắm trực tuyến hàng đầu Việt Nam sở hữu hơn 30,000 nhà bán hàng, phục vụ hơn 30 triệu khách hàng với hơn 20 ngành hàng đa dạng, từ điện tử, thời trang đến mỹ phẩm và đồ gia dụng, n",
+      "rules": "Nghiêm cấm các publisher sử dụng các hình thức sau để tạo traffic và đơn hàng: 1. Mạo danh hình ảnh và thương hiệu của Bên B để quảng cáo: Đơn hàng phát sinh từ các đơn vị tiếp thị tạo ấn t",
+      "link": "https://shorten.asia/nrgUdmmk"
     }
   ]
 }
