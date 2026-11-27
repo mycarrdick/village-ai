@@ -1,5 +1,13 @@
 [
  {
+  "id": "7122320825424144404",
+  "name": "Bảo Hiểm Nhân Thọ",
+  "merchant": "aia_aff",
+  "approval": "unregistered",
+  "status": 1,
+  "url": "https://www.aia.com.vn/vi/san-pham/tat-ca-san-pham.html"
+ },
+ {
   "id": "7119587834347357135",
   "name": "Vigo Onboard Seller",
   "merchant": "vigo_ob",
