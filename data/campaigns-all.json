@@ -251,7 +251,7 @@
   "id": "7023899790333407988",
   "name": "VNSHOP Website",
   "merchant": "vnshop_prod",
-  "approval": "unregistered",
+  "approval": "successful",
   "status": 1,
   "url": "https://vnshop.vn/"
  },
@@ -1232,14 +1232,6 @@
   "url": "https://cellphones.com.vn/black-friday"
  },
  {
-  "id": "6258612159538991400",
-  "name": "VinWonders Website",
-  "merchant": "vinwonders",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://vinwonders.com/vi/"
- },
- {
   "id": "6222994945811367082",
   "name": "GoStream WEB",
   "merchant": "gostream_web",
@@ -1662,14 +1654,6 @@
   "approval": "successful",
   "status": 1,
   "url": "https://tiki.vn"
- },
- {
-  "id": "4714643531361134725",
-  "name": "Fado.vn - Mua Sắm Xuyên Biên Giới",
-  "merchant": "fadovn",
-  "approval": "unregistered",
-  "status": 1,
-  "url": "https://fado.vn/app"
  },
  {
   "id": "4348614230663030600",
